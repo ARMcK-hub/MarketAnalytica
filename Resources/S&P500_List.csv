@@ -1,0 +1,506 @@
+Symbol,Security,SEC filings,GICS Sector,GICS Sub Industry,Headquarters Location,Date first added,CIK,Founded
+MMM,3M Company,reports,Industrials,Industrial Conglomerates,"St. Paul, Minnesota",,66740,1902
+ABT,Abbott Laboratories,reports,Health Care,Health Care Equipment,"North Chicago, Illinois",23467,1800,1888
+ABBV,AbbVie Inc.,reports,Health Care,Pharmaceuticals,"North Chicago, Illinois",41274,1551152,2013 (1888)
+ABMD,ABIOMED Inc,reports,Health Care,Health Care Equipment,"Danvers, Massachusetts",43251,815094,1981
+ACN,Accenture plc,reports,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",40730,1467373,1989
+ATVI,Activision Blizzard,reports,Communication Services,Interactive Home Entertainment,"Santa Monica, California",42247,718877,2008
+ADBE,Adobe Systems Inc,reports,Information Technology,Application Software,"San Jose, California",35555,796343,1982
+AMD,Advanced Micro Devices Inc,reports,Information Technology,Semiconductors,"Sunnyvale, California",42814,2488,1969
+AAP,Advance Auto Parts,reports,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",42194,1158449,1932
+AES,AES Corp,reports,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",36070,874761,1981
+AMG,Affiliated Managers Group Inc,reports,Financials,Asset Management & Custody Banks,"West Palm Beach, Florida",41821,1004434,1993
+AFL,AFLAC Inc,reports,Financials,Life & Health Insurance,"Columbus, Georgia",36308,4977,1955
+A,Agilent Technologies Inc,reports,Health Care,Health Care Equipment,"Santa Clara, California",36682,1090872,1999
+APD,Air Products & Chemicals Inc,reports,Materials,Industrial Gases,"Allentown, Pennsylvania",31167,2969,1940
+AKAM,Akamai Technologies Inc,reports,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",39275,1086222,1998
+ALK,Alaska Air Group Inc,reports,Industrials,Airlines,"Seattle, Washington",42503,766421,1985
+ALB,Albemarle Corp,reports,Materials,Specialty Chemicals,"Charlotte, North Carolina",42552,915913,1994
+ARE,Alexandria Real Estate Equities,reports,Real Estate,Office REITs,"Pasadena, California",42814,1035443,1994
+ALXN,Alexion Pharmaceuticals,reports,Health Care,Biotechnology,"Boston, Massachusetts",41054,899866,1992
+ALGN,Align Technology,reports,Health Care,Health Care Supplies,"San Jose, California",42905,1097149,1997
+ALLE,Allegion,reports,Industrials,Building Products,"Dublin, Ireland",41610,1579241,1908
+AGN,"Allergan, Plc",reports,Health Care,Pharmaceuticals,"Dublin, Ireland",36262,1578845,1983
+ADS,Alliance Data Systems,reports,Information Technology,Data Processing & Outsourced Services,"Plano, Texas",41631,1101215,1996
+LNT,Alliant Energy Corp,reports,Utilities,Electric Utilities,"Madison, Wisconsin",42552,352541,1917
+ALL,Allstate Corp,reports,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",34893,899051,1931
+GOOGL,Alphabet Inc Class A,reports,Communication Services,Interactive Media & Services,"Mountain View, California",41732,1652044,1998
+GOOG,Alphabet Inc Class C,reports,Communication Services,Interactive Media & Services,"Mountain View, California",38810,1652044,1998
+MO,Altria Group Inc,reports,Consumer Staples,Tobacco,"Richmond, Virginia",,764180,1985
+AMZN,Amazon.com Inc.,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",38674,1018724,1994
+AMCR,Amcor plc,reports,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",43623,1748790,
+AEE,Ameren Corp,reports,Utilities,Multi-Utilities,"St. Louis, Missouri",33500,1002910,1902
+AAL,American Airlines Group,reports,Industrials,Airlines,"Fort Worth, Texas",42086,6201,1934
+AEP,American Electric Power,reports,Utilities,Electric Utilities,"Columbus, Ohio",,4904,1906
+AXP,American Express Co,reports,Financials,Consumer Finance,"New York, New York",27941,4962,1850
+AIG,American International Group,reports,Financials,Property & Casualty Insurance,"New York, New York",29311,5272,1919
+AMT,American Tower Corp.,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",39405,1053507,1995
+AWK,American Water Works Company Inc,reports,Utilities,Water Utilities,"Camden, New Jersey",42433,1410636,1886
+AMP,Ameriprise Financial,reports,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",38628,820027,1894
+ABC,AmerisourceBergen Corp,reports,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",37133,1140859,1985
+AME,AMETEK Inc.,reports,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",41540,1037868,1930
+AMGN,Amgen Inc.,reports,Health Care,Biotechnology,"Thousand Oaks, California",33605,318154,1980
+APH,Amphenol Corp,reports,Information Technology,Electronic Components,"Wallingford, Connecticut",39721,820313,1932
+ADI,"Analog Devices, Inc.",reports,Information Technology,Semiconductors,"Norwood, Massachusetts",36445,6281,1965
+ANSS,ANSYS,reports,Information Technology,Application Software,"Canonsburg, Pennsylvania",42905,1013462,1969
+ANTM,Anthem,reports,Health Care,Managed Health Care,"Indianapolis, Indiana",37462,1156039,2014 (1940s)
+AON,Aon plc,reports,Financials,Insurance Brokers,"London, United Kingdom",35178,315293,1982 (1919)
+AOS,A.O. Smith Corp,reports,Industrials,Building Products,"Milwaukee, Wisconsin",42942,91142,1916
+APA,Apache Corporation,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",35639,6769,1954
+AIV,Apartment Investment & Management,reports,Real Estate,Residential REITs,"Denver, Colorado",37694,922864,1994 (1975)
+AAPL,Apple Inc.,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",30285,320193,1977
+AMAT,Applied Materials Inc.,reports,Information Technology,Semiconductor Equipment,"Santa Clara, California",34774,6951,1967
+APTV,Aptiv Plc,reports,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",41267,1521332,1994
+ADM,Archer-Daniels-Midland Co,reports,Consumer Staples,Agricultural Products,"Chicago, Illinois",29796,7084,1902
+ARNC,Arconic Inc.,reports,Industrials,Aerospace & Defense,"New York, New York",23467,4281,2016
+ANET,Arista Networks,reports,Information Technology,Communications Equipment,"Santa Clara, California",43340,1596532,2004
+AJG,Arthur J. Gallagher & Co.,reports,Financials,Insurance Brokers,"Itasca, Illinois",42521,354190,
+AIZ,Assurant,reports,Financials,Multi-line Insurance,"New York, New York",39182,1267238,
+ATO,Atmos Energy Corp,reports,Utilities,Gas Utilities,"Dallas, Texas",43511,731802,1906
+T,AT&T Inc.,reports,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",30650,732717,1983
+ADSK,Autodesk Inc.,reports,Information Technology,Application Software,"San Rafael, California",32843,769397,
+ADP,Automatic Data Processing,reports,Information Technology,Internet Services & Infrastructure,"Roseland, New Jersey",29676,8670,
+AZO,AutoZone Inc,reports,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",35432,866787,
+AVB,"AvalonBay Communities, Inc.",reports,Real Estate,Residential REITs,"Arlington, Virginia[3]",39092,915912,
+AVY,Avery Dennison Corp,reports,Materials,Paper Packaging,"Glendale, California",32142,8818,
+BKR,Baker Hughes Co,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",42923,1701605,2017
+BLL,Ball Corp,reports,Materials,Metal & Glass Containers,"Broomfield, Colorado",30986,9389,
+BAC,Bank of America Corp,reports,Financials,Diversified Banks,"Charlotte, North Carolina",27941,70858,
+BK,The Bank of New York Mellon Corp.,reports,Financials,Asset Management & Custody Banks,"New York, New York",34789,1390777,
+BAX,Baxter International Inc.,reports,Health Care,Health Care Equipment,"Deerfield, Illinois",26572,10456,1931
+BDX,Becton Dickinson,reports,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",26572,10795,1897
+BRK.B,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",40225,1067983,
+BBY,Best Buy Co. Inc.,reports,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",36340,764478,
+BIIB,Biogen Inc.,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",37938,875045,
+BLK,BlackRock,reports,Financials,Asset Management & Custody Banks,"New York, New York",40637,1364742,
+BA,Boeing Company,reports,Industrials,Aerospace & Defense,"Chicago, Illinois",,12927,1916
+BKNG,Booking Holdings Inc,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Norwalk, Connecticut",40123,1075531,
+BWA,BorgWarner,reports,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",40896,908255,
+BXP,Boston Properties,reports,Real Estate,Office REITs,"Boston, Massachusetts",38810,1037540,
+BSX,Boston Scientific,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts[4]",34754,885725,
+BMY,Bristol-Myers Squibb,reports,Health Care,Health Care Distributors,"New York, New York",,14272,1989
+AVGO,Broadcom Inc.,reports,Information Technology,Semiconductors,"San Jose, California",41767,1730168,
+BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",43269,1383312,1962
+BF.B,Brown-Forman Corp.,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",30255,14693,
+CHRW,C. H. Robinson Worldwide,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",39143,1043277,
+COG,Cabot Oil & Gas,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",39622,858470,
+CDNS,Cadence Design Systems,reports,Information Technology,Application Software,"San Jose, California",42996,813672,
+CPB,Campbell Soup,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",,16732,1869
+COF,Capital One Financial,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",35977,927628,1935
+CPRI,Capri Holdings,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",41591,1530721,
+CAH,Cardinal Health Inc.,reports,Health Care,Health Care Distributors,"Dublin, Ohio",35577,721371,
+KMX,Carmax Inc,reports,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",40357,1170010,
+CCL,Carnival Corp.,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",36151,815097,
+CAT,Caterpillar Inc.,reports,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",,18230,1925
+CBOE,Cboe Global Markets,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",42795,1374310,
+CBRE,CBRE Group,reports,Real Estate,Real Estate Services,"Los Angeles, California",39031,1138118,
+CDW,CDW,reports,Information Technology,Technology Distributors,"Lincolnshire, Illinois",43731,1402057,1984
+CE,Celanese,reports,Materials,Specialty Chemicals,"Irving, Texas",43458,1306830,
+CNC,Centene Corporation,reports,Health Care,Managed Health Care,"St Louis, Missouri",42459,1071739,
+CNP,CenterPoint Energy,reports,Utilities,Multi-Utilities,"Houston, Texas",31259,1130310,
+CTL,CenturyLink Inc,reports,Communication Services,Integrated Telecommunication Services,"Monroe, Louisiana",36244,18926,
+CERN,Cerner,reports,Health Care,Health Care Technology,"North Kansas City, Missouri",40298,804753,
+CF,CF Industries Holdings Inc,reports,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",39687,1324404,
+SCHW,Charles Schwab Corporation,reports,Financials,Investment Banking & Brokerage,"San Francisco, California",35583,316709,
+CHTR,Charter Communications,reports,Communication Services,Cable & Satellite,"Stamford, Connecticut",42621,1091667,
+CVX,Chevron Corp.,reports,Energy,Integrated Oil & Gas,"San Ramon, California",,93410,1879
+CMG,Chipotle Mexican Grill,reports,Consumer Discretionary,Restaurants,"Newport Beach, California",40661,1058090,
+CB,Chubb Limited,reports,Financials,Property & Casualty Insurance,"Zurich, Switzerland",40374,896159,
+CHD,Church & Dwight,reports,Consumer Staples,Household Products,"Ewing, New Jersey",42367,313927,
+CI,CIGNA Corp.,reports,Health Care,Managed Health Care,"Bloomfield, Connecticut",27941,701221,
+XEC,Cimarex Energy,reports,Energy,Oil & Gas Exploration & Production,"Denver, Colorado",41811,1168054,
+CINF,Cincinnati Financial,reports,Financials,Property & Casualty Insurance,"Fairfield, Ohio",35782,20286,
+CTAS,Cintas Corporation,reports,Industrials,Diversified Support Services,"Mason, Ohio",36951,723254,
+CSCO,Cisco Systems,reports,Information Technology,Communications Equipment,"San Jose, California",34304,858877,
+C,Citigroup Inc.,reports,Financials,Diversified Banks,"New York, New York",32294,831001,
+CFG,Citizens Financial Group,reports,Financials,Regional Banks,"Providence, Rhode Island",42398,759944,
+CTXS,Citrix Systems,reports,Information Technology,Application Software,"Fort Lauderdale, Florida",36495,877890,
+CLX,The Clorox Company,reports,Consumer Staples,Household Products,"Oakland, California",25293,21076,1913
+CME,CME Group Inc.,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",38940,1156375,
+CMS,CMS Energy,reports,Utilities,Multi-Utilities,"Jackson, Michigan",36283,811156,
+KO,Coca-Cola Company,reports,Consumer Staples,Soft Drinks,"Atlanta, Georgia",,21344,1886
+CTSH,Cognizant Technology Solutions,reports,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",39038,1058290,
+CL,Colgate-Palmolive,reports,Consumer Staples,Household Products,"New York, New York",,21665,1806
+CMCSA,Comcast Corp.,reports,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",42265,1166691,
+CMA,Comerica Inc.,reports,Financials,Diversified Banks,"Dallas, Texas",35034,28412,
+CAG,Conagra Brands,reports,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",30559,23217,
+CXO,Concho Resources,reports,Energy,Oil & Gas Exploration & Production,"Midland, Texas",42422,1358071,
+COP,ConocoPhillips,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",,1163165,2002
+ED,Consolidated Edison,reports,Utilities,Electric Utilities,"New York, New York",,1047862,1823
+STZ,Constellation Brands,reports,Consumer Staples,Distillers & Vintners,"Victor, New York",38534,16918,
+COO,The Cooper Companies,reports,Health Care,Health Care Supplies,"Pleasanton, California",42636,711404,
+CPRT,Copart Inc,reports,Industrials,Diversified Support Services,"Dallas, Texas",43283,900075,
+GLW,Corning Inc.,reports,Information Technology,Electronic Components,"Corning, New York",,24741,1851
+CTVA,Corteva,reports,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",43619,1755672,2019
+COST,Costco Wholesale Corp.,reports,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",34243,909832,
+COTY,"Coty, Inc",reports,Consumer Staples,Personal Products,"New York, New York",42646,1024305,
+CCI,Crown Castle International Corp.,reports,Real Estate,Specialized REITs,"Houston, Texas",40982,1051470,
+CSX,CSX Corp.,reports,Industrials,Railroads,"Jacksonville, Florida",24745,277948,1980
+CMI,Cummins Inc.,reports,Industrials,Industrial Machinery,"Columbus, Indiana",23832,26172,1919
+CVS,CVS Health,reports,Health Care,Health Care Services,"Woonsocket, Rhode Island",,64803,1996
+DHI,D. R. Horton,reports,Consumer Discretionary,Homebuilding,"Fort Worth, Texas",,882184,1978
+DHR,Danaher Corp.,reports,Health Care,Health Care Equipment,"Washington, D.C.",,313616,1969
+DRI,Darden Restaurants,reports,Consumer Discretionary,Restaurants,"Orlando, Florida",,940944,1938
+DVA,DaVita Inc.,reports,Health Care,Health Care Facilities,"Denver, Colorado",39660,927066,
+DE,Deere & Co.,reports,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",,315189,1837
+DAL,Delta Air Lines Inc.,reports,Industrials,Airlines,"Atlanta, Georgia",41528,27904,
+XRAY,Dentsply Sirona,reports,Health Care,Health Care Supplies,"York, Pennsylvania",39766,818479,
+DVN,Devon Energy,reports,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",36768,1090012,
+FANG,Diamondback Energy,reports,Energy,Oil & Gas Exploration & Production,"Midland, Texas",43437,1539838,2007
+DLR,Digital Realty Trust Inc,reports,Real Estate,Specialized REITs,"San Francisco, California",42508,1297996,
+DFS,Discover Financial Services,reports,Financials,Consumer Finance,"Riverwoods, Illinois",39265,1393612,
+DISCA,Discovery Inc. Class A,reports,Communication Services,Broadcasting,"Silver Spring, Maryland",40238,1437107,
+DISCK,Discovery Inc. Class C,reports,Communication Services,Broadcasting,"Silver Spring, Maryland",41858,1437107,
+DISH,Dish Network,reports,Communication Services,Cable & Satellite,"Meridian, Colorado",42807,1001082,
+DG,Dollar General,reports,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",41246,29534,
+DLTR,Dollar Tree,reports,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",40896,935703,
+D,Dominion Energy,reports,Utilities,Electric Utilities,"Richmond, Virginia",,715957,1983
+DOV,Dover Corp.,reports,Industrials,Industrial Machinery,"Downers Grove, Illinois",31351,29905,
+DOW,Dow Inc.,reports,Materials,Commodity Chemicals,"Midland, Michigan",43556,1751788,2019
+DTE,DTE Energy Co.,reports,Utilities,Multi-Utilities,"Detroit, Michigan",,936340,1995
+DUK,Duke Energy,reports,Utilities,Electric Utilities,"Charlotte, North Carolina",27941,1326160,
+DRE,Duke Realty Corp,reports,Real Estate,Industrial REITs,"Indianapolis, Indiana",42942,783280,
+DD,DuPont de Nemours Inc,reports,Materials,Specialty Chemicals,"Midland, Michigan",,1666700,2017
+DXC,DXC Technology,reports,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",42829,1688568,
+ETFC,E*Trade,reports,Financials,Investment Banking & Brokerage,"New York, New York",38077,1015780,
+EMN,Eastman Chemical,reports,Materials,Diversified Chemicals,"Kingsport, Tennessee",34335,915389,
+ETN,Eaton Corporation,reports,Industrials,Electrical Components & Equipment,"Dublin, Ireland",,1551182,1911
+EBAY,eBay Inc.,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",,1065088,1995
+ECL,Ecolab Inc.,reports,Materials,Specialty Chemicals,"St. Paul, Minnesota",32539,31462,
+EIX,Edison Int'l,reports,Utilities,Electric Utilities,"Rosemead, California",,827052,1886
+EW,Edwards Lifesciences,reports,Health Care,Health Care Equipment,"Irvine, California",40634,1099800,
+EA,Electronic Arts,reports,Communication Services,Interactive Home Entertainment,"Redwood City, California",37459,712515,
+EMR,Emerson Electric Company,reports,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",23832,32604,1890
+ETR,Entergy Corp.,reports,Utilities,Electric Utilities,"New Orleans, Louisiana",,65984,1913
+EOG,EOG Resources,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",36832,821189,
+EFX,Equifax Inc.,reports,Industrials,Research & Consulting Services,"Atlanta, Georgia",35600,33185,
+EQIX,Equinix,reports,Real Estate,Specialized REITs,"Redwood City, California",42083,1101239,
+EQR,Equity Residential,reports,Real Estate,Residential REITs,"Chicago, Illinois",37228,906107,
+ESS,"Essex Property Trust, Inc.",reports,Real Estate,Residential REITs,"Palo Alto, California",41731,920522,
+EL,Estee Lauder Cos.,reports,Consumer Staples,Personal Products,"New York, New York",38722,1001250,
+EVRG,Evergy,reports,Utilities,Electric Utilities,"Kansas City, Missouri",43256,1711269,1909
+ES,Eversource Energy,reports,Utilities,Multi-Utilities,"Springfield, Massachusetts",,72741,1966
+RE,Everest Re Group Ltd.,reports,Financials,Reinsurance,"Hamilton, Bermuda",42905,1095073,
+EXC,Exelon Corp.,reports,Utilities,Multi-Utilities,"Chicago, Illinois",,1109357,2000
+EXPE,Expedia Group,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Bellevue, Washington",39357,1324424,
+EXPD,Expeditors,reports,Industrials,Air Freight & Logistics,"Seattle, Washington",39365,746515,
+EXR,Extra Space Storage,reports,Real Estate,Specialized REITs,"Salt Lake City, Utah",42388,1289490,
+XOM,Exxon Mobil Corp.,reports,Energy,Integrated Oil & Gas,"Irving, Texas",,34088,1999
+FFIV,F5 Networks,reports,Information Technology,Communications Equipment,"Seattle, Washington",40532,1048695,1996
+FB,"Facebook, Inc.",reports,Communication Services,Interactive Media & Services,"Menlo Park, California",41631,1326801,
+FAST,Fastenal Co,reports,Industrials,Building Products,"Winona, Minnesota",40071,815556,
+FRT,Federal Realty Investment Trust,reports,Real Estate,Retail REITs,"Rockville, Maryland",42401,34903,
+FDX,FedEx Corporation,reports,Industrials,Air Freight & Logistics,"Memphis, Tennessee",29586,1048911,
+FIS,Fidelity National Information Services,reports,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",39031,1136893,
+FITB,Fifth Third Bancorp,reports,Financials,Regional Banks,"Cincinnati, Ohio",,35527,1858
+FE,FirstEnergy Corp,reports,Utilities,Electric Utilities,"Akron, Ohio",,1031296,1997
+FRC,First Republic Bank,reports,Financials,Regional Banks,"San Francisco, California",43467,1132979,1985
+FISV,Fiserv Inc,reports,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",36983,798354,
+FLT,FleetCor Technologies Inc,reports,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",43271,1175454,2000
+FLIR,FLIR Systems,reports,Information Technology,Electronic Equipment & Instruments,"Wilsonville, Oregon",39815,354908,
+FLS,Flowserve Corporation,reports,Industrials,Industrial Machinery,"Irving, Texas",39723,30625,
+FMC,FMC Corporation,reports,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",40044,37785,
+F,Ford Motor,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",,37996,1903
+FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",43384,1262039,2000
+FTV,Fortive Corp,reports,Industrials,Industrial Machinery,"Everett, Washington",42552,1659166,
+FBHS,Fortune Brands Home & Security,reports,Industrials,Building Products,"Deerfield, Illinois",42543,1519751,
+FOXA,Fox Corporation Class A,reports,Communication Services,Movies & Entertainment,"New York, New York",41456,1308161,
+FOX,Fox Corporation Class B,reports,Communication Services,Movies & Entertainment,"New York, New York",42265,1308161,
+BEN,Franklin Resources,reports,Financials,Asset Management & Custody Banks,"San Mateo, California",,38777,1947
+FCX,Freeport-McMoRan Inc.,reports,Materials,Copper,"Phoenix, Arizona",,831259,1912
+GPS,Gap Inc.,reports,Consumer Discretionary,Apparel Retail,"San Francisco, California",31655,39911,
+GRMN,Garmin Ltd.,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",41255,1121788,
+IT,Gartner Inc,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",42830,749251,
+GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",,40533,1899
+GE,General Electric,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,40545,1892
+GIS,General Mills,reports,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",25293,40704,1856
+GM,General Motors,reports,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",41431,1467858,
+GPC,Genuine Parts,reports,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",27029,40987,1925
+GILD,Gilead Sciences,reports,Health Care,Biotechnology,"Foster City, California",38169,882095,
+GL,Globe Life Inc.,reports,Financials,Life & Health Insurance,"McKinney, Texas",32628,320335,
+GPN,Global Payments Inc.,reports,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",42485,1123360,
+GS,Goldman Sachs Group,reports,Financials,Investment Banking & Brokerage,"New York, New York",37459,886982,
+GWW,Grainger (W.W.) Inc.,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",29767,277135,
+HRB,H&R Block,reports,Consumer Discretionary,Specialized Consumer Services,"Kansas City, Missouri",31746,12659,
+HAL,Halliburton Co.,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",,45012,1919
+HBI,Hanesbrands Inc,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Winston-Salem, North Carolina",42083,1359841,
+HOG,Harley-Davidson,reports,Consumer Discretionary,Motorcycle Manufacturers,"Milwaukee, Wisconsin",,793952,1903
+HIG,Hartford Financial Svc.Gp.,reports,Financials,Property & Casualty Insurance,"Hartford, Connecticut",,874766,
+HAS,Hasbro Inc.,reports,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",30955,46080,
+HCA,HCA Healthcare,reports,Health Care,Health Care Facilities,"Nashville, Tennessee",42031,860730,
+PEAK,Healthpeak Properties,reports,Real Estate,Health Care REITs,"Long Beach, California",39538,765880,
+HP,Helmerich & Payne,reports,Energy,Oil & Gas Drilling,"Tulsa, Oklahoma[5]",40238,46765,
+HSIC,Henry Schein,reports,Health Care,Health Care Distributors,"Melville, New York",42080,1000228,
+HSY,The Hershey Company,reports,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",,47111,1894
+HES,Hess Corporation,reports,Energy,Integrated Oil & Gas,"New York, New York",30833,4447,
+HPE,Hewlett Packard Enterprise,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",42310,1645590,
+HLT,Hilton Worldwide Holdings Inc,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",42905,1585689,
+HFC,HollyFrontier Corp,reports,Energy,Oil & Gas Refining & Marketing,"Dallas, Texas",43269,48039,
+HOLX,Hologic,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",42459,859737,
+HD,Home Depot,reports,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",32233,354950,
+HON,Honeywell Int'l Inc.,reports,Industrials,Industrial Conglomerates,"Morristown, New Jersey",23467,773840,1906
+HRL,Hormel Foods Corp.,reports,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",39876,48465,
+HST,Host Hotels & Resorts,reports,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",39161,1070750,
+HPQ,HP Inc.,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",27394,47217,1939 (2015)
+HUM,Humana Inc.,reports,Health Care,Managed Health Care,"Louisville, Kentucky",,49071,1961
+HBAN,Huntington Bancshares,reports,Financials,Regional Banks,"Columbus, Ohio",,49196,1866
+HII,Huntington Ingalls Industries,reports,Industrials,Aerospace & Defense,"Newport News, Virginia",43103,1501585,
+IEX,IDEX Corporation,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",43686,832101,1988
+IDXX,IDEXX Laboratories,reports,Health Care,Health Care Equipment,"Westbrook, Maine",42740,874716,
+INFO,IHS Markit Ltd.,reports,Industrials,Research & Consulting Services,"London, United Kingdom",42888,1598014,
+ITW,Illinois Tool Works,reports,Industrials,Industrial Machinery,"Glenview, Illinois",31471,49826,
+ILMN,Illumina Inc,reports,Health Care,Life Sciences Tools & Services,"San Diego, California",42327,1110803,
+IR,Ingersoll-Rand PLC,reports,Industrials,Industrial Machinery,"Dublin, Ireland",40499,1466258,
+INTC,Intel Corp.,reports,Information Technology,Semiconductors,"Santa Clara, California",28125,50863,
+ICE,Intercontinental Exchange,reports,Financials,Financial Exchanges & Data,"Atlanta, Georgia",39351,1571949,
+IBM,International Business Machines,reports,Information Technology,IT Consulting & Other Services,"Armonk, New York",,51143,1911
+INCY,Incyte,reports,Health Care,Biotechnology,"Wilmington, Delaware",42794,879169,
+IP,International Paper,reports,Materials,Paper Packaging,"Memphis, Tennessee",,51434,1898
+IPG,Interpublic Group,reports,Communication Services,Advertising,"New York, New York",33878,51644,
+IFF,Intl Flavors & Fragrances,reports,Materials,Specialty Chemicals,"New York, New York",27850,51253,
+INTU,Intuit Inc.,reports,Information Technology,Application Software,"Mountain View, California",36865,896878,
+ISRG,Intuitive Surgical Inc.,reports,Health Care,Health Care Equipment,"Sunnyvale, California",39601,1035267,
+IVZ,Invesco Ltd.,reports,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",39681,914208,
+IPGP,IPG Photonics Corp.,reports,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",43166,1111928,
+IQV,IQVIA Holdings Inc.,reports,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",42976,1478242,
+IRM,Iron Mountain Incorporated,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",39819,1020569,
+JKHY,Jack Henry & Associates,reports,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",43417,779152,
+J,Jacobs Engineering Group,reports,Industrials,Construction & Engineering,"Pasadena, California",39381,52988,
+JBHT,J. B. Hunt Transport Services,reports,Industrials,Trucking,"Lowell, Arkansas",42186,728535,
+SJM,JM Smucker,reports,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",39758,91419,
+JNJ,Johnson & Johnson,reports,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",26845,200406,1886
+JCI,Johnson Controls International,reports,Industrials,Building Products,"Cork, Ireland",40417,833444,
+JPM,JPMorgan Chase & Co.,reports,Financials,Diversified Banks,"New York, New York",27575,19617,
+JNPR,Juniper Networks,reports,Information Technology,Communications Equipment,"Sunnyvale, California",,1043604,1996
+KSU,Kansas City Southern,reports,Industrials,Railroads,"Kansas City, Missouri",41418,54480,
+K,Kellogg Co.,reports,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",,55067,1906
+KEY,KeyCorp,reports,Financials,Regional Banks,"Cleveland, Ohio",34394,91576,
+KEYS,Keysight Technologies,reports,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",43410,1601046,2014
+KMB,Kimberly-Clark,reports,Consumer Staples,Household Products,"Irving, Texas",,55785,1872
+KIM,Kimco Realty,reports,Real Estate,Retail REITs,"New Hyde Park, New York",38811,879101,
+KMI,Kinder Morgan,reports,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",41054,1506307,
+KLAC,KLA Corporation,reports,Information Technology,Semiconductor Equipment,"Milpitas, California",,319201,1975/1977 (1997)
+KSS,Kohl's Corp.,reports,Consumer Discretionary,General Merchandise Stores,"Menomonee Falls, Wisconsin",,885639,1962
+KHC,Kraft Heinz Co,reports,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",42191,1637459,
+KR,Kroger Co.,reports,Consumer Staples,Food Retail,"Cincinnati, Ohio",,56873,1883
+LB,L Brands Inc.,reports,Consumer Discretionary,Apparel Retail,"Columbus, Ohio",30589,701985,
+LHX,L3Harris Technologies,reports,Industrials,Aerospace & Defense,"Melbourne, Florida",,202058,
+LH,Laboratory Corp. of America Holding,reports,Health Care,Health Care Services,"Burlington, North Carolina",38292,920148,
+LRCX,Lam Research,reports,Information Technology,Semiconductor Equipment,"Fremont, California",41089,707549,
+LW,Lamb Weston Holdings Inc,reports,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",43437,1679273,
+LVS,Las Vegas Sands,reports,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",43741,1300514,
+LEG,Leggett & Platt,reports,Consumer Discretionary,Home Furnishings,"Carthage, Missouri",,58492,1883
+LDOS,Leidos Holdings,reports,Information Technology,IT Consulting & Other Services,"Reston, Virginia",43686,1336920,1969
+LEN,Lennar Corp.,reports,Consumer Discretionary,Homebuilding,"Miami, Florida",38629,920760,
+LLY,Lilly (Eli) & Co.,reports,Health Care,Pharmaceuticals,"Indianapolis, Indiana",25933,59478,1876
+LNC,Lincoln National,reports,Financials,Multi-line Insurance,"Radnor, Pennsylvania",27941,59558,
+LIN,Linde plc,reports,Materials,Industrial Gases,"Guildford, Surrey, United Kingdom",33786,1707925,
+LKQ,LKQ Corporation,reports,Consumer Discretionary,Distributors,"Chicago, Illinois",42513,1065696,
+LMT,Lockheed Martin Corp.,reports,Industrials,Aerospace & Defense,"Bethesda, Maryland",30894,936468,
+L,Loews Corp.,reports,Financials,Multi-line Insurance,"New York, New York",,60086,
+LOW,Lowe's Cos.,reports,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",30741,60667,1904/1946/1959
+LYB,LyondellBasell,reports,Materials,Specialty Chemicals,"Rotterdam, Netherlands",41157,1489393,
+MTB,M&T Bank Corp.,reports,Financials,Regional Banks,"Buffalo, New York",,36270,1856
+MAC,Macerich,reports,Real Estate,Retail REITs,"Santa Monica, California",41403,912242,
+M,Macy's Inc.,reports,Consumer Discretionary,Department Stores,"Cincinnati, Ohio",,794367,1929
+MRO,Marathon Oil Corp.,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",33359,101778,
+MPC,Marathon Petroleum,reports,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",40725,1510295,
+MKTX,MarketAxess,reports,Financials,Financial Exchanges & Data,"New York, New York",43647,1278021,2000
+MAR,Marriott Int'l.,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",,1048286,1927
+MMC,Marsh & McLennan,reports,Financials,Insurance Brokers,"New York, New York",32020,62709,
+MLM,Martin Marietta Materials,reports,Materials,Construction Materials,"Raleigh, North Carolina",41822,916076,
+MAS,Masco Corp.,reports,Industrials,Building Products,"Taylor, Michigan",29767,62996,
+MA,Mastercard Inc.,reports,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",39647,1141391,
+MKC,McCormick & Co.,reports,Consumer Staples,Packaged Foods & Meats,"Sparks, Maryland",,63754,1889
+MXIM,Maxim Integrated Products Inc,reports,Information Technology,Semiconductors,"San Jose, California",43437,743316,1983
+MCD,McDonald's Corp.,reports,Consumer Discretionary,Restaurants,"Chicago, Illinois",25749,63908,1940
+MCK,McKesson Corp.,reports,Health Care,Health Care Distributors,"Irving, Texas",,927653,1833
+MDT,Medtronic plc,reports,Health Care,Health Care Equipment,"Dublin, Ireland",31716,1613103,
+MRK,Merck & Co.,reports,Health Care,Pharmaceuticals,"Whitehouse Station, New Jersey",,310158,1891
+MET,MetLife Inc.,reports,Financials,Life & Health Insurance,"New York, New York",,1099219,1868
+MTD,Mettler Toledo,reports,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",42619,1037646,
+MGM,MGM Resorts International,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",42942,789570,
+MCHP,Microchip Technology,reports,Information Technology,Semiconductors,"Chandler, Arizona",39332,827054,
+MU,Micron Technology,reports,Information Technology,Semiconductors,"Boise, Idaho",34604,723125,
+MSFT,Microsoft Corp.,reports,Information Technology,Systems Software,"Redmond, Washington",34486,789019,1975
+MAA,Mid-America Apartments,reports,Real Estate,Residential REITs,"Memphis, Tennessee",42706,912595,
+MHK,Mohawk Industries,reports,Consumer Discretionary,Home Furnishings,"Amsterdam, New York",41631,851968,
+TAP,Molson Coors Brewing Company,reports,Consumer Staples,Brewers,"Denver, Colorado",27941,24545,
+MDLZ,Mondelez International,reports,Consumer Staples,Packaged Foods & Meats,"Deerfield, Illinois",41184,1103982,
+MNST,Monster Beverage,reports,Consumer Staples,Soft Drinks,"Corona, California",41088,865752,
+MCO,Moody's Corp,reports,Financials,Financial Exchanges & Data,"New York, New York",,1059556,1909
+MS,Morgan Stanley,reports,Financials,Investment Banking & Brokerage,"New York, New York",,895421,1935
+MOS,The Mosaic Company,reports,Materials,Fertilizers & Agricultural Chemicals,"Plymouth, Minnesota",40812,1285785,
+MSI,Motorola Solutions Inc.,reports,Information Technology,Communications Equipment,"Schaumburg, Illinois",,68505,1928 (2011)
+MSCI,MSCI Inc,reports,Financials,Financial Exchanges & Data,"New York, New York",43194,1408198,
+MYL,Mylan N.V.,reports,Health Care,Pharmaceuticals,"Amsterdam, Netherlands",38100,1623613,
+NDAQ,"Nasdaq, Inc.",reports,Financials,Financial Exchanges & Data,"New York, New York",39743,1120193,
+NOV,National Oilwell Varco Inc.,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",38425,1021860,
+NTAP,NetApp,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Sunnyvale, California",36336,1002047,
+NFLX,Netflix Inc.,reports,Communication Services,Movies & Entertainment,"Los Gatos, California",40532,1065280,1997
+NWL,Newell Brands,reports,Consumer Discretionary,Housewares & Specialties,"Hoboken, New Jersey",32628,814453,
+NEM,Newmont Goldcorp,reports,Materials,Gold,"Denver, Colorado",25384,1164727,1921
+NWSA,News Corp. Class A,reports,Communication Services,Publishing,"New York, New York",41487,1564708,
+NWS,News Corp. Class B,reports,Communication Services,Publishing,"New York, New York",42265,1564708,
+NEE,NextEra Energy,reports,Utilities,Multi-Utilities,"Juno Beach, Florida",27941,753308,
+NLSN,Nielsen Holdings,reports,Industrials,Research & Consulting Services,"New York, New York",41464,1492633,
+NKE,Nike,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",32477,320187,
+NI,NiSource Inc.,reports,Utilities,Multi-Utilities,"Merrillville, Indiana",,1111711,1912
+NBL,Noble Energy Inc,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",39363,72207,
+JWN,Nordstrom,reports,Consumer Discretionary,Department Stores,"Seattle, Washington",31655,72333,
+NSC,Norfolk Southern Corp.,reports,Industrials,Railroads,"Norfolk, Virginia",,702165,1881/1894 (1980)
+NTRS,Northern Trust Corp.,reports,Financials,Asset Management & Custody Banks,"Chicago, Illinois",,73124,1889
+NOC,Northrop Grumman,reports,Industrials,Aerospace & Defense,"West Falls Church, Virginia",31228,1133421,
+NLOK,NortonLifeLock,reports,Information Technology,Application Software,"Tempe, Arizona",37705,849399,
+NCLH,Norwegian Cruise Line Holdings,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",43021,1513761,
+NRG,NRG Energy,reports,Utilities,Independent Power Producers & Energy Traders,"Princeton, New Jersey",40207,1013871,
+NUE,Nucor Corp.,reports,Materials,Steel,"Charlotte, North Carolina",31167,73309,
+NVDA,Nvidia Corporation,reports,Information Technology,Semiconductors,"Santa Clara, California",37225,1045810,
+NVR,NVR Inc,reports,Consumer Discretionary,Homebuilding,"Reston, VA",43734,906163,
+ORLY,O'Reilly Automotive,reports,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",39899,898173,
+OXY,Occidental Petroleum,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",30316,797468,
+ODFL,Old Dominion Freight Line,reports,Industrials,Trucking,"Thomasville, North Carolina",43808,878927,
+OMC,Omnicom Group,reports,Communication Services,Advertising,"New York, New York",,29989,1986
+OKE,ONEOK,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",40252,1039684,
+ORCL,Oracle Corp.,reports,Information Technology,Application Software,"Redwood Shores, California",32751,1341439,
+PCAR,PACCAR Inc.,reports,Industrials,Construction Machinery & Heavy Trucks,"Bellevue, Washington",29586,75362,
+PKG,Packaging Corporation of America,reports,Materials,Paper Packaging,"Lake Forest, Illinois",42942,75677,
+PH,Parker-Hannifin,reports,Industrials,Industrial Machinery,"Cleveland, Ohio",31381,76334,
+PAYX,Paychex Inc.,reports,Information Technology,Data Processing & Outsourced Services,"Penfield, New York",,723531,1971
+PYPL,PayPal,reports,Information Technology,Data Processing & Outsourced Services,"San Jose, California",42205,1633917,
+PNR,Pentair plc,reports,Industrials,Industrial Machinery,"Worsley, UK",41183,77360,
+PBCT,People's United Financial,reports,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",39765,1378946,
+PEP,PepsiCo Inc.,reports,Consumer Staples,Soft Drinks,"Purchase, New York",,77476,1898
+PKI,PerkinElmer,reports,Health Care,Health Care Equipment,"Waltham, Massachusetts",31198,31791,
+PRGO,Perrigo,reports,Health Care,Pharmaceuticals,"Dublin, Ireland",40896,1585364,
+PFE,Pfizer Inc.,reports,Health Care,Pharmaceuticals,"New York, New York",,78003,1849
+PM,Philip Morris International,reports,Consumer Staples,Tobacco,"New York, New York",39538,1413329,
+PSX,Phillips 66,reports,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",41030,1534701,
+PNW,Pinnacle West Capital,reports,Utilities,Multi-Utilities,"Phoenix, Arizona",,764622,1985
+PXD,Pioneer Natural Resources,reports,Energy,Oil & Gas Exploration & Production,"Irving, Texas",39715,1038357,
+PNC,PNC Financial Services,reports,Financials,Regional Banks,"Pittsburgh, Pennsylvania",32263,713676,
+PPG,PPG Industries,reports,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",,79879,1883
+PPL,PPL Corp.,reports,Utilities,Electric Utilities,"Allentown, Pennsylvania",,922224,
+PFG,Principal Financial Group,reports,Financials,Life & Health Insurance,"Des Moines, Iowa",37459,1126328,
+PG,Procter & Gamble,reports,Consumer Staples,Personal Products,"Cincinnati, Ohio",,80424,1837
+PGR,Progressive Corp.,reports,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",35646,80661,
+PLD,Prologis,reports,Real Estate,Industrial REITs,"San Francisco, California",37819,1045609,
+PRU,Prudential Financial,reports,Financials,Life & Health Insurance,"Newark, New Jersey",37459,1137774,
+PEG,Public Serv. Enterprise Inc.,reports,Utilities,Electric Utilities,"Newark, New Jersey",,788784,
+PSA,Public Storage,reports,Real Estate,Specialized REITs,"Glendale, California",38583,1393311,
+PHM,Pulte Homes Inc.,reports,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",30802,822416,
+PVH,PVH Corp.,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",41320,78239,
+QRVO,Qorvo,reports,Information Technology,Semiconductors,"Greensboro, North Carolina",42166,1604778,
+PWR,Quanta Services Inc.,reports,Industrials,Construction & Engineering,"Houston, Texas",39995,1050915,
+QCOM,QUALCOMM Inc.,reports,Information Technology,Semiconductors,"San Diego, California",,804328,1985
+DGX,Quest Diagnostics,reports,Health Care,Health Care Services,"Madison, New Jersey",37602,1022079,
+RL,Ralph Lauren Corporation,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",39115,1037038,
+RJF,Raymond James Financial Inc.,reports,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",42814,720005,
+RTN,Raytheon Co.,reports,Industrials,Aerospace & Defense,"Waltham, Massachusetts",,1047122,1922
+O,Realty Income Corporation,reports,Real Estate,Retail REITs,"San Diego, California",42101,726728,
+REG,Regency Centers Corporation,reports,Real Estate,Retail REITs,"Jacksonville, Florida",42796,910606,
+REGN,Regeneron Pharmaceuticals,reports,Health Care,Biotechnology,"Tarrytown, New York",41395,872589,
+RF,Regions Financial Corp.,reports,Financials,Regional Banks,"Birmingham, Alabama",36035,1281761,
+RSG,Republic Services Inc,reports,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",39787,1060391,
+RMD,ResMed,reports,Health Care,Health Care Equipment,"San Diego, California",42942,943819,
+RHI,Robert Half International,reports,Industrials,Human Resource & Employment Services,"Menlo Park, California",36865,315213,
+ROK,Rockwell Automation Inc.,reports,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",,1024478,
+ROL,Rollins Inc.,reports,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",43374,84839,
+ROP,Roper Technologies,reports,Industrials,Industrial Conglomerates,"Sarasota, Florida",40170,882835,
+ROST,Ross Stores,reports,Consumer Discretionary,Apparel Retail,"Pleasanton, California",40168,745732,
+RCL,Royal Caribbean Cruises Ltd,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",41978,884887,
+SPGI,"S&P Global, Inc.",reports,Financials,Financial Exchanges & Data,"New York, New York",,64040,
+CRM,Salesforce.com,reports,Information Technology,Application Software,"San Francisco, California",39706,1108524,
+SBAC,SBA Communications,reports,Real Estate,Specialized REITs,"Boca Raton, Florida",42979,1034054,
+SLB,Schlumberger Ltd.,reports,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",23832,87347,1926
+STX,Seagate Technology,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",41092,1137789,
+SEE,Sealed Air,reports,Materials,Paper Packaging,"Elmwood Park, New Jersey",,1012100,
+SRE,Sempra Energy,reports,Utilities,Multi-Utilities,"San Diego, California",,1032208,
+NOW,ServiceNow,reports,Information Technology,Systems Software,"Santa Clara, California",43790,1373715,2003
+SHW,Sherwin-Williams,reports,Materials,Specialty Chemicals,"Cleveland, Ohio",23558,89800,1866
+SPG,Simon Property Group Inc,reports,Real Estate,Retail REITs,"Indianapolis, Indiana",37433,1063761,2003
+SWKS,Skyworks Solutions,reports,Information Technology,Semiconductors,"Woburn, Massachusetts",42075,4127,
+SLG,SL Green Realty,reports,Real Estate,Office REITs,"New York, New York",42083,1040971,
+SNA,Snap-on,reports,Industrials,Industrial Machinery,"Kenosha, Wisconsin",30224,91440,1920
+SO,Southern Co.,reports,Utilities,Electric Utilities,"Atlanta, Georgia",,92122,
+LUV,Southwest Airlines,reports,Industrials,Airlines,"Dallas, Texas",34516,92380,
+SWK,Stanley Black & Decker,reports,Industrials,Industrial Machinery,"New Britain, Connecticut",30224,93556,
+SBUX,Starbucks Corp.,reports,Consumer Discretionary,Restaurants,"Seattle, Washington",,829224,1971
+STT,State Street Corp.,reports,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",,93751,
+SYK,Stryker Corp.,reports,Health Care,Health Care Equipment,"Kalamazoo, Michigan",36872,310764,
+SIVB,SVB Financial,reports,Financials,Regional Banks,"Santa Clara, California",43178,719739,
+SYF,Synchrony Financial,reports,Financials,Consumer Finance,"Stamford, Connecticut",42326,1601712,
+SNPS,Synopsys Inc.,reports,Information Technology,Application Software,"Mountain View, California",42810,883241,
+SYY,Sysco Corp.,reports,Consumer Staples,Food Distributors,"Houston, Texas",31777,96021,
+TMUS,T-Mobile US,reports,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",43661,1283699,
+TROW,T. Rowe Price Group,reports,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169,1937
+TTWO,Take-Two Interactive,reports,Communication Services,Interactive Home Entertainment,"New York, New York",43178,946581,
+TPR,"Tapestry, Inc.",reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",,1116132,2017
+TGT,Target Corp.,reports,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",28125,27419,
+TEL,TE Connectivity Ltd.,reports,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",40833,1385157,
+FTI,TechnipFMC,reports,Energy,Oil & Gas Equipment & Services,"London, United Kingdom",39969,1681459,
+TFX,Teleflex,reports,Health Care,Health Care Equipment,"Wayne, Pennsylvania",43483,96943,1943
+TXN,Texas Instruments,reports,Information Technology,Semiconductors,"Dallas, Texas",,97476,1930
+TXT,Textron Inc.,reports,Industrials,Aerospace & Defense,"Providence, Rhode Island",28855,217346,
+TMO,Thermo Fisher Scientific,reports,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",,97745,2006
+TIF,Tiffany & Co.,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",36698,98246,
+TJX,TJX Companies Inc.,reports,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",31320,109198,
+TSCO,Tractor Supply Company,reports,Consumer Discretionary,Specialty Stores,"Brentwood, Tennessee",41663,916365,
+TDG,TransDigm Group,reports,Industrials,Aerospace & Defense,"Cleveland, Ohio",42524,1260221,
+TRV,The Travelers Companies Inc.,reports,Financials,Property & Casualty Insurance,"New York, New York",37489,86312,
+TRIP,TripAdvisor,reports,Communication Services,Interactive Media & Services,"Newton, Massachusetts",40898,1526520,
+TFC,Truist Financial,reports,Financials,Regional Banks,"Charlotte, North Carolina",35768,92230,
+TWTR,"Twitter, Inc.",reports,Communication Services,Interactive Media & Services,"San Francisco, California",43258,1418091,
+TSN,Tyson Foods,reports,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",,100493,
+UDR,"UDR, Inc.",reports,Real Estate,Residential REITs,"Highlands Ranch, Colorado",42436,74208,
+ULTA,Ulta Beauty,reports,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",42478,1403568,
+USB,U.S. Bancorp,reports,Financials,Diversified Banks,"Minneapolis, Minnesota",,36104,1968
+UAA,Under Armour Class A,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",42454,1336917,
+UA,Under Armour Class C,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",41760,1336917,
+UNP,Union Pacific Corp,reports,Industrials,Railroads,"Omaha, Nebraska",,100885,
+UAL,United Airlines Holdings,reports,Industrials,Airlines,"Chicago, Illinois",42250,100517,
+UNH,United Health Group Inc.,reports,Health Care,Managed Health Care,"Minnetonka, Minnesota",34516,731766,
+UPS,United Parcel Service,reports,Industrials,Air Freight & Logistics,"Atlanta, Georgia",37459,1090727,
+URI,"United Rentals, Inc.",reports,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",41902,1067701,
+UTX,United Technologies,reports,Industrials,Aerospace & Defense,"Hartford, Connecticut",,101829,
+UHS,"Universal Health Services, Inc.",reports,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",41902,352915,
+UNM,Unum Group,reports,Financials,Life & Health Insurance,"Chattanooga, Tennessee",34394,5513,
+VFC,V.F. Corp.,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Greensboro, North Carolina",29036,103379,
+VLO,Valero Energy,reports,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",,1035002,1980
+VAR,Varian Medical Systems,reports,Health Care,Health Care Equipment,"Palo Alto, California",39125,203527,
+VTR,Ventas Inc,reports,Real Estate,Health Care REITs,"Chicago, Illinois",39876,740260,
+VRSN,Verisign Inc.,reports,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",38749,1014473,
+VRSK,Verisk Analytics,reports,Industrials,Research & Consulting Services,"Jersey City, New Jersey",42285,1442145,
+VZ,Verizon Communications,reports,Communication Services,Integrated Telecommunication Services,"New York, New York",30650,732712,
+VRTX,Vertex Pharmaceuticals Inc,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",41540,875320,
+VIAC,ViacomCBS,reports,Communication Services,Movies & Entertainment,"New York, New York",,1339947,
+V,Visa Inc.,reports,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",40168,1403161,
+VNO,Vornado Realty Trust,reports,Real Estate,Office REITs,"New York, New York",,899689,
+VMC,Vulcan Materials,reports,Materials,Construction Materials,"Birmingham, Alabama",36341,1396009,
+WRB,W. R. Berkley Corporation,reports,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",43804,11544,1967
+WAB,Wabtec Corporation,reports,Industrials,Construction Machinery & Heavy Trucks,"Wilmerding, Pennsylvania",43523,943452,
+WMT,Walmart,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",30194,104169,
+WBA,Walgreens Boots Alliance,reports,Consumer Staples,Drug Retail,"Deerfield, Illinois",29220,1618921,
+DIS,The Walt Disney Company,reports,Communication Services,Movies & Entertainment,"Burbank, California",27941,1001039,
+WM,Waste Management Inc.,reports,Industrials,Environmental & Facilities Services,"Houston, Texas",,823768,1968
+WAT,Waters Corporation,reports,Health Care,Health Care Distributors,"Milford, Massachusetts",,1000697,1958
+WEC,Wec Energy Group Inc,reports,Utilities,Electric Utilities,"Milwaukee, Wisconsin",39752,783325,
+WCG,WellCare,reports,Health Care,Managed Health Care,"Tampa, Florida",1985,1279363,
+WFC,Wells Fargo,reports,Financials,Diversified Banks,"San Francisco, California",27941,72971,
+WELL,Welltower Inc.,reports,Real Estate,Health Care REITs,"Toledo, Ohio",39843,766704,
+WDC,Western Digital,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Irvine, California",39995,106040,
+WU,Western Union Co,reports,Information Technology,Data Processing & Outsourced Services,"Englewood, Colorado",,1365135,1851
+WRK,WestRock,reports,Materials,Paper Packaging,"Richmond, Virginia",,1636023,
+WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Federal Way, Washington",,106535,
+WHR,Whirlpool Corp.,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640,1911
+WMB,Williams Cos.,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",27484,107263,
+WLTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, United Kingdom",42374,1140536,
+WYNN,Wynn Resorts Ltd,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",39766,1174922,
+XEL,Xcel Energy Inc,reports,Utilities,Multi-Utilities,"Minneapolis, Minnesota",,72903,1909
+XRX,Xerox,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Norwalk, Connecticut",,108772,1906
+XLNX,Xilinx,reports,Information Technology,Semiconductors,"San Jose, California",36472,743988,
+XYL,Xylem Inc.,reports,Industrials,Industrial Machinery,"White Plains, New York",40848,1524472,
+YUM,Yum! Brands Inc,reports,Consumer Discretionary,Restaurants,"Louisville, Kentucky",35709,1041061,
+ZBH,Zimmer Biomet Holdings,reports,Health Care,Health Care Equipment,"Warsaw, Indiana",37110,1136869,
+ZION,Zions Bancorp,reports,Financials,Regional Banks,"Salt Lake City, Utah",37064,109380,
+ZTS,Zoetis,reports,Health Care,Pharmaceuticals,"Florham Park, New Jersey",41446,1555280,

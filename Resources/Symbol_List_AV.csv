@@ -1,0 +1,165 @@
+company,company_check,ticker,occurance,profit ($ millions),revenue ($ millions),year
+Exxon Mobil,Exxon Mobil Corporation,XOM,31,45220,452926,2019
+Berkshire Hathaway,Berkshire Hathaway Inc.,BRK-A,31,44940,247837,2019
+AT&T,Atlantic Power Corporation,AT,25,29450,170756,2019
+Citigroup,Citigroup Inc.,C,25,24589,159229,2019
+Microsoft,Microsoft Corporation,MSFT,25,23150,110360,2019
+Wells Fargo,,,25,23057,101060,2019
+General Electric,,,31,22208,183207,2019
+Ford Motor,Ford Motor Company,F,31,22071,180598,2019
+Pfizer,Pfizer Inc.,PFE,31,22003,67932,2019
+Intel,Intel Corporation,INTC,31,21053,70848,2019
+Johnson & Johnson,Johnson & Johnson,JNJ,31,16540,81581,2019
+ConocoPhillips,,,31,15550,237272,2019
+Procter & Gamble,The Procter & Gamble Company,PG,31,15326,85120,2019
+Altria Group,,,31,14239,72944,2019
+Merck,Merck & Co. Inc.,MRK,31,12901.3,51790.3,2019
+PepsiCo,PepsiCo Inc.,PEP,31,12515,66683,2019
+UnitedHealth Group,UnitedHealth Group Incorporated,UNH,25,11986,226247,2019
+Coca-Cola,,,31,11809,48017,2019
+Home Depot,The Home Depot Inc.,HD,25,11121,108203,2019
+Union Pacific,Union Pacific Corporation,UNP,25,10712,23988,2019
+Bristol-Myers Squibb,Bristol-Myers Squibb Company,BMY,31,10612,22561,2019
+Delta Air Lines,Delta Air Lines Inc.,DAL,25,10540,44438,2019
+Boeing,,,31,10460,101127,2019
+General Motors,General Motors Company,GM,31,9687,207349,2019
+Hewlett-Packard,,,26,8761,127245,2014
+Morgan Stanley,Morgan Stanley,MS,25,8748,87879,2019
+Owens Corning,Owens Corning,OC,31,8075,7057,2019
+DuPont,DuPont de Nemours Inc.,DD,29,7690,41304,2017
+Dow Chemical,,,29,7685,59985,2017
+United Technologies,United Technologies Corporation,UTX,31,7608,66501,2019
+U.S. Bancorp,U.S. Bancorp,USB,30,7096,25775,2019
+MetLife,MetLife Inc.,MET,25,6981,73316,2019
+American Express,American Express Company,AXP,25,6921,43281,2019
+Occidental Petroleum,Occidental Petroleum Corporation,OXY,31,6857,25898,2019
+Time Warner,AT&T Inc.,T,25,6552,46984,2018
+Caterpillar,Caterpillar Inc.,CAT,31,6147,65875,2019
+Abbott Laboratories,Abbott Laboratories,ABT,31,5962.9,39873.9,2019
+Texas Instruments,Texas Instruments Incorporated,TXN,31,5580,15784,2019
+CSX,CSX Corporation,CSX,25,5471,12669,2019
+Valero Energy,Valero Energy Corporation,VLO,29,5463,138286,2019
+Norfolk Southern,Norfolk Southern Corporation,NSC,25,5404,11624,2019
+3M,3M Company,MMM,31,5349,32765,2019
+Lockheed Martin,Lockheed Martin Corporation,LMT,31,5302,53762,2019
+Corning,Corning Incorporated,GLW,30,5257,11290,2019
+Marathon Oil,Marathon Oil Corporation,MRO,29,5234,73504,2019
+McKesson,McKesson Corporation,MCK,25,5070,208357,2019
+Eli Lilly,Eli Lilly and Company,LLY,31,5069.5,24555.7,2019
+Baxter International,,,31,4965,16972,2019
+FedEx,FedEx Corporation,FDX,25,4572,65450,2019
+Loews,Loews Corporation,L,25,4530,20952.6,2019
+Nike,NIKE Inc.,NKE,25,4240,36397,2019
+Exelon,Exelon Corporation,EXC,25,3770,35985,2019
+Deere,Deere & Company,DE,31,3537,37795,2019
+Halliburton,Halliburton Company,HAL,25,3500,32870,2019
+Southwest Airlines,Southwest Airlines Co.,LUV,25,3488,21965,2019
+Applied Materials,Applied Materials Inc.,AMAT,28,3434,17253,2019
+Target,Target Corporation,TGT,25,3363,75356,2019
+Danaher,Danaher Corporation,DHR,27,3357,20909,2019
+General Dynamics,General Dynamics Corporation,GD,31,3345,36193,2019
+PPG Industries,PPG Industries Inc.,PPG,31,3231,15849,2019
+Northrop Grumman,Northrop Grumman Corporation,NOC,31,3229,35291,2019
+Kroger,The Kroger Co.,KR,25,3110,122662,2019
+TJX,The TJX Companies Inc.,TJX,25,3059.8,38972.9,2019
+Duke Energy,Duke Energy Corporation,DUK,25,3059,59503,2019
+Tyson Foods,Tyson Foods Inc.,TSN,31,3024,41373,2019
+CBS,ViacomCBS Inc.,CBS,27,2959,15685,2019
+Illinois Tool Works,Illinois Tool Works Inc.,ITW,31,2946,18256.8,2019
+Raytheon,Raytheon Company,RTN,31,2909,27058,2019
+Sealed Air,Sealed Air Corporation,SEE,27,2857.7,7921.6,2018
+SunTrust Banks,SunTrust Banks Inc.,STI,25,2775,13464.6,2019
+Monsanto,,,29,2740,19299,2018
+Emerson Electric,Emerson Electric Co.,EMR,31,2710,25281,2019
+Cigna,Cigna Corporation,CI,25,2637,48650,2019
+Progressive,The Progressive Corporation,PGR,25,2615.3,31979,2019
+Alcoa,Alcoa Corporation,AA,30,2564,30896,2019
+Marsh & McLennan,Marsh & McLennan Companies Inc.,MMC,25,2475,14950,2019
+Colgate-Palmolive,Colgate-Palmolive Company,CL,31,2472,17420,2019
+Goodyear Tire & Rubber,The Goodyear Tire & Rubber Company,GT,31,2452,22767,2019
+Southern,The Southern Company,SO,25,2448,23495,2019
+Humana,Humana Inc.,HUM,25,2448,56912,2019
+Baker Hughes,Bishop Street Hawaii Municipal Bond Fund Class A,BHIAX,29,2419,24551,2017
+Viacom,Viacom Inc.,VIAB,25,2395,27054.8,2019
+Publix Super Markets,,,25,2381.2,36395.7,2019
+Nucor,Nucor Corporation,NUE,31,2360.8,25067.3,2019
+Kimberly-Clark,Kimberly-Clark Corporation,KMB,31,2278,21152,2019
+Archer Daniels Midland,Archer-Daniels-Midland Company,ADM,31,2248,89804,2019
+Textron,Textron Inc.,TXT,31,2226,14806,2019
+Paccar,PACCAR Inc,PCAR,31,2195.1,23495.7,2019
+Williams,The Williams Companies Inc.,WMB,25,2174,19245.7,2019
+International Paper,International Paper Company,IP,31,2144,29080,2019
+Cummins,Cummins Inc.,CMI,31,2141,23771,2019
+General Mills,General Mills Inc.,GIS,31,2131,17910,2019
+Nationwide,,,25,2113,43939.9,2019
+Rite Aid,Rite Aid Corporation,RAD,25,2109,32845.1,2019
+Lincoln National,Lincoln National Corporation,LNC,25,2079,16424,2019
+American Electric Power,American Electric Power Company Inc.,AEP,25,2047,61257,2019
+Ashland,Ashland Global Holdings Inc.,ASH,28,2004,13567,2016
+Waste Management,Waste Management Inc.,WM,25,1949,14914,2019
+Cardinal Health,Cardinal Health Inc.,CAH,25,1931.1,136809,2019
+PPL,PPL Corporation,PPL,25,1902,12756,2019
+First Data,Fidelity Capital Appreciation Fund,FDCAX,25,1875.2,12052,2019
+New York Life Insurance,,,25,1866.9,45891,2019
+Northwestern Mutual,,,25,1828.8,29331,2019
+Weyerhaeuser,,,31,1826,23000,2019
+Kellogg,Kellogg Company,K,31,1807,14792,2019
+CenterPoint Energy,CenterPoint Energy Inc.,CNP,25,1792,46225.8,2019
+Sherwin-Williams,The Sherwin-Williams Company,SHW,31,1772.3,17534.5,2019
+Praxair,,,25,1755,12273,2018
+Navistar International,Navistar International Corporation,NAV,29,1723,14724,2019
+Gannett,Gannett Co. Inc.,GCI,26,1719.1,8033.4,2014
+Public Service Enterprise Group,Public Service Enterprise Group Incorporated,PEG,25,1679,13741,2019
+AmerisourceBergen,AmerisourceBergen Corporation,ABC,25,1658.4,167939.6,2019
+Johnson Controls,Johnson Controls International plc,JCI,28,1624,43855,2016
+Edison International,Edison International,EIX,25,1612,14112,2019
+Consolidated Edison,Consolidated Edison Inc.,ED,25,1525,13725.9,2019
+Rockwell Automation,Rockwell Automation Inc.,ROK,31,1487.8,14343,2019
+Best Buy,Best Buy Co. Inc.,BBY,25,1464,50272,2019
+Xerox,Xerox Holdings Corporation,XRX,31,1452,22626,2019
+Sysco,Sysco Corporation,SYY,25,1430.8,58727.3,2019
+Eastman Chemical,Eastman Chemical Company,EMN,25,1384,10151,2019
+Entergy,Entergy Corporation,ETR,25,1346.4,13093.8,2019
+Owens-Illinois,,,31,1340.6,8134.1,2019
+Becton Dickinson,"Becton, Dickinson and Company",BDX,31,1317.6,15983,2019
+Lear,Lear Corporation,LEA,30,1313.4,21148.5,2019
+Gap,The Gap Inc.,GPS,25,1280,16580,2019
+Thrivent Financial for Lutherans,,,25,1233.9,8789,2019
+VF,Village Farms International Inc.,VFF,31,1232,12862.3,2019
+Campbell Soup,Campbell Soup Company,CPB,31,1165,8685,2019
+J.C. Penney,Corts Trust for J.C. Penney Debentures,KTP,25,1153,32965,2019
+Tenet Healthcare,Tenet Healthcare Corporation,THC,25,1143,21070,2019
+DTE Energy,DTE Energy Company,DTE,25,1134,14212,2019
+Clorox,The Clorox Company,CLX,26,1096,6124,2019
+McGraw-Hill,,,25,1013.6,6772.3,2013
+H.J. Heinz,,,27,1013,11649.1,2015
+Hormel Foods,Hormel Foods Corporation,HRL,31,1012.1,9545.7,2019
+Dover,Dover Corporation,DOV,31,1003,9123,2019
+ConAgra Foods,Conagra Brands Inc.,CAG,28,978.4,27629.6,2016
+Masco,Masco Corporation,MAS,31,940,12884,2019
+Mattel,Mattel Inc.,MAT,29,904,6485,2017
+Whirlpool,Whirlpool Corporation,WHR,31,888,21253,2019
+Avon Products,Avon Products Inc.,AVP,30,875.3,11291.6,2018
+Dean Foods,Dean Foods Company,DF,34,813,13055.5,2019
+Genuine Parts,Genuine Parts Company,GPC,25,810.5,18735.1,2019
+W.W. Grainger,W.W. Grainger Inc.,GWW,25,802,11221,2019
+Ryder System,Ryder System Inc.,R,25,790.6,8409.2,2019
+Coca-Cola Enterprises,,,27,749,21807,2015
+Nordstrom,Nordstrom Inc.,JWN,25,735,15860,2019
+Arrow Electronics,Arrow Electronics Inc.,ARW,25,716.2,29676.8,2019
+Avnet,Avnet Inc.,AVT,25,669.1,27925,2019
+Foot Locker,Foot Locker Inc.,FL,25,664,8293,2019
+CMS Energy,CMS Energy Corporation,CMS,25,657,12977,2019
+Supervalu,,,25,650,44564,2019
+Pitney Bowes,Pitney Bowes Inc.,PBI,25,636.2,6262.3,2013
+Crown Holdings,Crown Holdings Inc.,CCK,31,557,11151,2019
+NCR,NCR Corporation,NCR,25,529,6591,2019
+Office Depot,Office Depot Inc.,ODP,25,529,16096,2019
+Newell Rubbermaid,Newell Brands Inc.,NWL,25,475,7750,2014
+Ball,Ballard Power Systems Inc.,BLDP,29,470,11635,2019
+Avery Dennison,Avery Dennison Corporation,AVY,31,467.4,7159,2019
+OfficeMax,,,33,416.8,13270.2,2013
+R.R. Donnelley & Sons,R.R. Donnelley & Sons Company,RRD,31,400.6,11603,2019
+Tech Data,Tech Data Corporation,TECD,25,340.6,37239,2019
+Graybar Electric,,,25,143.3,7202.5,2019
+Owens & Minor,Owens & Minor Inc.,OMI,25,115.2,9838.7,2019

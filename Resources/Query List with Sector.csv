@@ -1,0 +1,165 @@
+,company,ticker,occurance,profit ($ millions),revenue ($ millions),year,Industry
+41,3M,MMM,31,5349,32765,2019,Industrials
+36,Abbott Laboratories,ABT,31,5962.9,39873.9,2019,Health Care
+74,Alcoa,AA,30,2564,30896,2019,Industrials
+13,Altria Group,MO,31,14239,72944,2019,Consumer Staples
+95,American Electric Power,AEP,25,2047,61257,2019,Utilities
+32,American Express,AXP,25,6921,43281,2019,Financials
+111,AmerisourceBergen,ABC,25,1658.4,167939.6,2019,Health Care
+55,Applied Materials,AMAT,28,3434,17253,2019,Information Technology
+85,Archer Daniels Midland,ADM,31,2248,89804,2019,Consumer Staples
+147,Arrow Electronics,ARW,25,716.2,29676.8,2019,Industrials
+96,Ashland,ASH,28,2004,13567,2016,Materials
+2,AT&T,T,25,29450,170756,2019,Communication Services
+158,Avery Dennison,AVY,31,467.4,7159,2019,Materials
+148,Avnet,AVT,25,669.1,27925,2019,Industrials
+140,Avon Products,AVP,30,875.3,11291.6,2018,Consumer Discretionary
+80,Baker Hughes,BHI,29,2419,24551,2017,Energy
+157,Ball,BLL,29,470,11635,2019,Materials
+47,Baxter International,BAX,31,4965,16972,2019,Health Care
+122,Becton Dickinson,BDX,31,1317.6,15983,2019,Health Care
+1,Berkshire Hathaway,BRK-A,31,44940,247837,2019,Financials
+116,Best Buy,BBY,25,1464,50272,2019,Consumer Discretionary
+22,Boeing,BA,31,10460,101127,2019,Industrials
+20,Bristol-Myers Squibb,BMY,31,10612,22561,2019,Health Care
+127,Campbell Soup,CPB,31,1165,8685,2019,Consumer Staples
+98,Cardinal Health,CAH,25,1931.1,136809,2019,Health Care
+35,Caterpillar,CAT,31,6147,65875,2019,Industrials
+65,CBS,CBS,27,2959,15685,2019,Communication Services
+105,CenterPoint Energy,CNP,25,1792,46225.8,2019,Utilities
+72,Cigna,CI,25,2637,48650,2019,Health Care
+3,Citigroup,C,25,24589,159229,2019,Financials
+131,Clorox,CLX,26,1096,6124,2019,Consumer Staples
+150,CMS Energy,CMS,25,657,12977,2019,Utilities
+17,Coca-Cola,KO,31,11809,48017,2019,Consumer Staples
+145,Coca-Cola Enterprises,,27,749,21807,2015,Consumer Staples
+76,Colgate-Palmolive,CL,31,2472,17420,2019,Consumer Staples
+136,ConAgra Foods,CAG,28,978.4,27629.6,2016,Consumer Staples
+11,ConocoPhillips,COP,31,15550,237272,2019,Energy
+114,Consolidated Edison,ED,25,1525,13725.9,2019,Utilities
+43,Corning,GLW,30,5257,11290,2019,Information Technology
+153,Crown Holdings,CCK,31,557,11151,2019,Industrials
+38,CSX,CSX,25,5471,12669,2019,Industrials
+90,Cummins,CMI,31,2141,23771,2019,Industrials
+57,Danaher,DHR,27,3357,20909,2019,Health Care
+141,Dean Foods,DF,34,813,13055.5,2019,Consumer Staples
+52,Deere,DE,31,3537,37795,2019,Industrials
+21,Delta Air Lines,DAL,25,10540,44438,2019,Industrials
+135,Dover,DOV,31,1003,9123,2019,Industrials
+28,Dow Chemical,DOW,29,7685,59985,2017,Materials
+130,DTE Energy,DTE,25,1134,14212,2019,Utilities
+63,Duke Energy,DUK,25,3059,59503,2019,Utilities
+27,DuPont,DD,29,7690,41304,2017,Materials
+119,Eastman Chemical,EMN,25,1384,10151,2019,Materials
+113,Edison International,EIX,25,1612,14112,2019,Utilities
+46,Eli Lilly,LLY,31,5069.5,24555.7,2019,Health Care
+71,Emerson Electric,EMR,31,2710,25281,2019,Industrials
+120,Entergy,ETR,25,1346.4,13093.8,2019,Utilities
+51,Exelon,EXC,25,3770,35985,2019,Utilities
+0,Exxon Mobil,XOM,31,45220,452926,2019,Energy
+48,FedEx,FDX,25,4572,65450,2019,Industrials
+100,First Data,FDC,25,1875.2,12052,2019,Information Technology
+149,Foot Locker,FL,25,664,8293,2019,Consumer Discretionary
+7,Ford Motor,F,31,22071,180598,2019,Consumer Discretionary
+109,Gannett,GCI,26,1719.1,8033.4,2014,Communication Services
+124,Gap,GPS,25,1280,16580,2019,Consumer Discretionary
+58,General Dynamics,GD,31,3345,36193,2019,Industrials
+6,General Electric,GE,31,22208,183207,2019,Industrials
+91,General Mills,GIS,31,2131,17910,2019,Consumer Staples
+23,General Motors,GM,31,9687,207349,2019,Consumer Discretionary
+142,Genuine Parts,GPC,25,810.5,18735.1,2019,Consumer Discretionary
+77,Goodyear Tire & Rubber,GT,31,2452,22767,2019,Industrials
+162,Graybar Electric,,25,143.3,7202.5,2019,Energy
+133,H.J. Heinz,,27,1013,11649.1,2015,Consumer Staples
+53,Halliburton,HAL,25,3500,32870,2019,Energy
+24,Hewlett-Packard,HPE,26,8761,127245,2014,Information Technology
+18,Home Depot,HD,25,11121,108203,2019,Consumer Discretionary
+134,Hormel Foods,HRL,31,1012.1,9545.7,2019,Consumer Staples
+79,Humana,HUM,25,2448,56912,2019,Health Care
+66,Illinois Tool Works,ITW,31,2946,18256.8,2019,Industrials
+9,Intel,INTC,31,21053,70848,2019,Information Technology
+89,International Paper,IP,31,2144,29080,2019,Materials
+128,J.C. Penney,JCP,25,1153,32965,2019,Consumer Discretionary
+10,Johnson & Johnson,JNJ,31,16540,81581,2019,Health Care
+112,Johnson Controls,JCI,28,1624,43855,2016,Industrials
+104,Kellogg,K,31,1807,14792,2019,Consumer Staples
+84,Kimberly-Clark,KMB,31,2278,21152,2019,Consumer Staples
+61,Kroger,KR,25,3110,122662,2019,Consumer Staples
+123,Lear,LEA,30,1313.4,21148.5,2019,Industrials
+94,Lincoln National,LNC,25,2079,16424,2019,Financials
+42,Lockheed Martin,LMT,31,5302,53762,2019,Industrials
+49,Loews,L,25,4530,20952.6,2019,Financials
+44,Marathon Oil,MRO,29,5234,73504,2019,Energy
+75,Marsh & McLennan,MMC,25,2475,14950,2019,Financials
+137,Masco,MAS,31,940,12884,2019,Industrials
+138,Mattel,MAT,29,904,6485,2017,Consumer Discretionary
+132,McGraw-Hill,MHFI,25,1013.6,6772.3,2013,Communication Services
+45,McKesson,MCK,25,5070,208357,2019,Health Care
+14,Merck,MRK,31,12901.3,51790.3,2019,Health Care
+31,MetLife,MET,25,6981,73316,2019,Financials
+4,Microsoft,MSFT,25,23150,110360,2019,Information Technology
+70,Monsanto,MON,29,2740,19299,2018,Consumer Staples
+25,Morgan Stanley,MS,25,8748,87879,2019,Financials
+92,Nationwide,,25,2113,43939.9,2019,Financials
+108,Navistar International,NAV,29,1723,14724,2019,Consumer Discretionary
+154,NCR,NCR,25,529,6591,2019,Information Technology
+101,New York Life Insurance,,25,1866.9,45891,2019,Financials
+156,Newell Rubbermaid,NWL,25,475,7750,2014,Consumer Discretionary
+50,Nike,NKE,25,4240,36397,2019,Consumer Discretionary
+146,Nordstrom,JWN,25,735,15860,2019,Consumer Discretionary
+40,Norfolk Southern,NSC,25,5404,11624,2019,Industrials
+60,Northrop Grumman,NOC,31,3229,35291,2019,Industrials
+102,Northwestern Mutual,NWE,25,1828.8,29331,2019,Financials
+83,Nucor,NUE,31,2360.8,25067.3,2019,Materials
+33,Occidental Petroleum,OXY,31,6857,25898,2019,Energy
+155,Office Depot,ODP,25,529,16096,2019,Consumer Discretionary
+159,OfficeMax,OMX,33,416.8,13270.2,2013,Consumer Discretionary
+163,Owens & Minor,OMI,25,115.2,9838.7,2019,Health Care
+26,Owens Corning,OC,31,8075,7057,2019,Industrials
+121,Owens-Illinois,OI,31,1340.6,8134.1,2019,Industrials
+87,Paccar,PCAR,31,2195.1,23495.7,2019,Industrials
+15,PepsiCo,PEP,31,12515,66683,2019,Consumer Staples
+8,Pfizer,PFE,31,22003,67932,2019,Health Care
+152,Pitney Bowes,PBI,25,636.2,6262.3,2013,Information Technology
+59,PPG Industries,PPG,31,3231,15849,2019,Materials
+99,PPL,PPL,25,1902,12756,2019,Utilities
+107,Praxair,PX,25,1755,12273,2018,Industrials
+12,Procter & Gamble,PG,31,15326,85120,2019,Consumer Staples
+73,Progressive,PGR,25,2615.3,31979,2019,Financials
+110,Public Service Enterprise Group,PEG,25,1679,13741,2019,Utilities
+82,Publix Super Markets,PUSH,25,2381.2,36395.7,2019,Consumer Staples
+160,R.R. Donnelley & Sons,RRD,31,400.6,11603,2019,Communication Services
+67,Raytheon,RTN,31,2909,27058,2019,Industrials
+93,Rite Aid,RAD,25,2109,32845.1,2019,Consumer Staples
+115,Rockwell Automation,ROK,31,1487.8,14343,2019,Industrials
+144,Ryder System,R,25,790.6,8409.2,2019,Industrials
+68,Sealed Air,SEE,27,2857.7,7921.6,2018,Materials
+106,Sherwin-Williams,SHW,31,1772.3,17534.5,2019,Materials
+78,Southern,SO,25,2448,23495,2019,Utilities
+54,Southwest Airlines,LUV,25,3488,21965,2019,Industrials
+69,SunTrust Banks,STI,25,2775,13464.6,2019,Financials
+151,Supervalu,SVU,25,650,44564,2019,Consumer Staples
+118,Sysco,SYY,25,1430.8,58727.3,2019,Consumer Staples
+56,Target,TGT,25,3363,75356,2019,Consumer Discretionary
+161,Tech Data,TECD,25,340.6,37239,2019,Information Technology
+129,Tenet Healthcare,THC,25,1143,21070,2019,Health Care
+37,Texas Instruments,TXN,31,5580,15784,2019,Information Technology
+86,Textron,TXT,31,2226,14806,2019,Industrials
+125,Thrivent Financial for Lutherans,,25,1233.9,8789,2019,Financials
+34,Time Warner,TWX,25,6552,46984,2018,Communication Services
+62,TJX,TJX,25,3059.8,38972.9,2019,Consumer Discretionary
+64,Tyson Foods,TSN,31,3024,41373,2019,Consumer Staples
+30,U.S. Bancorp,USB,30,7096,25775,2019,Financials
+19,Union Pacific,UNP,25,10712,23988,2019,Industrials
+29,United Technologies,UTX,31,7608,66501,2019,Industrials
+16,UnitedHealth Group,UNH,25,11986,226247,2019,Health Care
+39,Valero Energy,VLO,29,5463,138286,2019,Energy
+126,VF,VFF,31,1232,12862.3,2019,Consumer Discretionary
+81,Viacom,VIAB,25,2395,27054.8,2019,Communication Services
+143,W.W. Grainger,GWW,25,802,11221,2019,Industrials
+97,Waste Management,WM,25,1949,14914,2019,Industrials
+5,Wells Fargo,WFC,25,23057,101060,2019,Financials
+103,Weyerhaeuser,WY,31,1826,23000,2019,Real Estate
+139,Whirlpool,WHR,31,888,21253,2019,Consumer Discretionary
+88,Williams,WMB,25,2174,19245.7,2019,Energy
+117,Xerox,XRX,31,1452,22626,2019,Information Technology
