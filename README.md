@@ -3,11 +3,7 @@ A Repository for Stock Market Analytics
 
 
 
-# WHAT:
-This project houses data, scripts, and analytics for analyzing the Standard & Poor's Market Stock.
-
-
-# Repository Directory:
+# Repository Directory
 Most of the files and folders are self explanatory. However, if you are looking for something swiftly, you can find it using the following.
 
 1. Archive - Old files dedicated to analyzing "Fortune 100" stocks
@@ -15,8 +11,11 @@ Most of the files and folders are self explanatory. However, if you are looking 
 3. Resources - Storage for data used in the S&P500 analytics and data collection
 4. Scripts - Code which was used to execute the data collection and analysis
 
+# WHAT
+This project houses data, scripts, and analytics for analyzing the Standard & Poor's Market Stock.
 
-# WHY:
+
+# WHY
 First and foremost, this project was undertaken because of my curiosity and vested interest in understanding some of the outcomes of this project.
 
 This analysis looks at answering several different and interesting questions one might have about the S&P500 over the past 2 decades.
@@ -40,11 +39,11 @@ Note there could be more depending on what you would like to determine with this
 5. The rebound period analyzed was from th bottom peak of the End Of Year 2018 dip to the end of data called (present) since there has not be a major flattening or downturn in the market to date.
 
 
-# WHEN:
+# WHEN
 The data collection and analysis for this project occured between December 2019 - January 2020.
 
 
-# HOW (and notes):
+# HOW (and notes)
 1. Data was crunched by first defining a scope of project. (What is the story we want to tell?)
 2. After finding an API the suited the needs of the project (Alpha Vantage), it was decided to pull the past 20 years of daily S&P500 stock data. 
 	1. Financial Data is pretty difficult to come by, and even harder when you want it for free.
@@ -58,7 +57,7 @@ The data collection and analysis for this project occured between December 2019 
 tldr: Define Project Scope -> Alpha Vantage API Queries -> Jupyter Notebook .ipynb for data cleanup, aggregations, and visualizations
 
 
-# WHO (and my role):
+# WHO (and my role)
 Good question. This project was initally undertaken by myself and a group of 3 associates to analyze an aggregate of the Fortune 500 List. During this project, I was responsible for delivering all of the stock data via use of an API request script.
 This initial project yielded a mix of unsatistying results (mainly driven by skewed data - Fixed by including more!), and I was interested in the followup analysis.
 I created the analysis portion of this, S&P500, project.
@@ -67,7 +66,7 @@ I created the analysis portion of this, S&P500, project.
 tldr: The project started out as a seperate group project looking at the Fortune 500. I was interested in more so I continued on, and I created all of the content associated with this specific repository.
 
 
-# Future:
+# Future
 I am interested in developing some of the skills I learned here into creating a day-trading app! (Automated ROI Value)
 I am also interested in running a good portion of this data through Scikit-Learn for modeling purposes, most probably incorporated into the day-trading app.
 
