@@ -73,3 +73,30 @@ I am also interested in running a good portion of this data through Scikit-Learn
 
 
 tldr: Day-Trading app, Machine Learning on Stock Data
+
+
+# Technical Stuff
+
+Development Environment:
+1. Jupyter Notebook
+2. Visual Studio Code
+
+Libraries:
+1. Pandas
+2. Matplotlib
+3. Time
+4. Requests
+5. Unix Shell (Bash)
+
+Technologies:
+1. .gitignore (api keys)
+2. .gitattribute (Git LFS)
+
+Hosting:
+1. GitHub
+
+Resources:
+1. Google
+2. Alpha Vantage
+3. A good bit of Docs & Stack Overflow
+4. Friendly Associates
