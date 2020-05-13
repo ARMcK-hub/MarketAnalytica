@@ -1,0 +1,141 @@
+<!-- Author: Andrew McKinney -->
+<!-- VU_DABC HTML & CSS -->
+<!-- Creation Date: 2020-02-01 -->
+
+
+<!DOCTYPE html>
+    <html lang="en">
+
+
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <!-- Bootstrap Dependencies -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        
+        <!-- CSS Override Doc with Bootswatch -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
+
+        <!-- favicon shit -->
+        <link rel="apple-touch-icon" sizes="144x144" href="images/favicon_package/apple-touch-icon">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_package/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon_package/favicon-16x16.png">
+        <link rel="manifest" href="images/favicon_package/site.webmanifest">
+        <link rel="mask-icon" href="images/favicon_package/safari-pinned-tab.svg" color="#5bbad5">
+
+
+        <title>Market Analytica</title>
+
+
+    </head>
+
+
+
+
+    <body>
+
+      <!-- NavBar  -->
+      <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+
+        <!-- Brand Image -->
+        <img class="navbar-brand" src="images/code_circle.png" width="30" height="40" alt="HTML Code Image">
+
+          <!-- Navbar Toggle Button -->
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Navbar Items -->
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+            <ul class="navbar-nav">
+
+              <!-- Home -->
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              </li>
+
+              <!-- Data -->
+              <li class="nav-item">
+                <a class="nav-link" href="data.html">Data</a>
+              </li>
+
+              <!-- Comparison Plot Page -->
+              <li class="nav-item">
+                <a class="nav-link" href="comparison.html">Comparison</a>
+              </li>
+
+              <!-- Plot Dropdown -->
+              <li class="nav-item dropdown active">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Plots
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item text-primary" href="daily_index_price.html">Daily Index Price</a>
+                  <a class="dropdown-item text-primary" href="daily_index_volume.html">Daily Index Volume</a>
+                  <a class="dropdown-item text-primary" href="daily_index_vol_var.html">Daily Index Volume Variance</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="present_sectors.html">Present Sectors</a>
+                  <a class="dropdown-item text-primary" href="sector_distribution.html">Sector Distributions</a>
+                  <a class="dropdown-item text-primary" href="overall_sector_gains.html">20 Year Sector Gains</a>
+                  <a class="dropdown-item text-primary" href="top_performing_daily_sector_gains.html">Top Market Performing Daily Sector Gains</a>
+                  <a class="dropdown-item text-primary" href="bottom_performing_daily_sector_gains.html">Bottom Market Performing Daily Sector Gains</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="eoy_2018_top_&_bottom_stocks.html">EOY 2018 Top & Bottom Stocks - Crash</a>
+                  <a class="dropdown-item text-primary" href="post_2018_top_&_bottom_stocks.html">Post 2018 Top & Bottom Stocks - Rebound</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="eoy_2018_sector_gains.html">EOY 2018 Sector Gains - Crash</a>
+                  <a class="dropdown-item text-primary" href="post_2018_sector_gains.html">Post 2018 Sector Gains - Rebound</a>
+                </div>
+              </li>
+
+          </div>
+
+      </nav>
+
+
+      <!-- Creates the Overall Grid -->
+      <div class="container">
+
+        <!-- First Row -->
+        <div class="row" style="margin-top: 10px;">
+
+          <div class="col-md-12">
+
+            <!-- Main  Body Header -->
+            <div class="panel" style="margin-top: 20px;">
+
+              <!-- Body Heading -->
+              
+              <h1 class="text-info text-center">End-Of-Year 2018 Sector Gains Chart</h1>
+
+              <div class="text-center">
+                <img src="images/Market_Analytica/s&p375_sector_gain_eoy2018_bar.png" style="width: 100%; border-radius: 10px;" class='center'>
+              </div>
+
+              <hr class="my-4">
+
+                <p>
+                  This bar chart visualizes sector gains during a crash period.
+                  The crash period considered is EOY 2018 crash, running from early September to Christmas, 2018.
+                  Shows sectors that are present in the analyzed dataset - S&P375.
+                </p>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </body>
+
+</html>

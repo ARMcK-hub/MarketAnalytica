@@ -1,0 +1,458 @@
+<!-- Author: Andrew McKinney -->
+<!-- VU_DABC HTML & CSS -->
+<!-- Creation Date: 2020-02-01 -->
+
+
+<!DOCTYPE html>
+    <html lang="en">
+
+
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <!-- Bootstrap Dependencies -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        
+        <!-- CSS Override Doc with Bootswatch -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
+
+        <!-- favicon shit -->
+        <link rel="apple-touch-icon" sizes="144x144" href="images/favicon_package/apple-touch-icon">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_package/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon_package/favicon-16x16.png">
+        <link rel="manifest" href="images/favicon_package/site.webmanifest">
+        <link rel="mask-icon" href="images/favicon_package/safari-pinned-tab.svg" color="#5bbad5">
+
+
+        <title>Market Analytica</title>
+
+        <style>
+            .my-custom-scrollbar {
+          position: relative;
+          height: 500px;
+          overflow: auto;
+          }
+          .table-wrapper-scroll-y {
+          display: block;
+          }
+        </style>
+
+
+    </head>
+
+
+    <body>
+
+      <!-- NavBar  -->
+      <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+
+        <!-- Brand Image -->
+        <img class="navbar-brand" src="images/code_circle.png" width="30" height="40" alt="HTML Code Image">
+
+          <!-- Navbar Toggle Button -->
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Navbar Items -->
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+            <ul class="navbar-nav">
+
+              <!-- Home -->
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              </li>
+
+              <!-- Data -->
+              <li class="nav-item active">
+                <a class="nav-link" href="data.html">Data</a>
+              </li>
+
+              <!-- Comparison Plot Page -->
+              <li class="nav-item">
+                <a class="nav-link" href="comparison.html">Comparison</a>
+              </li>
+
+              <!-- Plot Dropdown -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Plots
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item text-primary" href="daily_index_price.html">Daily Index Price</a>
+                  <a class="dropdown-item text-primary" href="daily_index_volume.html">Daily Index Volume</a>
+                  <a class="dropdown-item text-primary" href="daily_index_vol_var.html">Daily Index Volume Variance</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="present_sectors.html">Present Sectors</a>
+                  <a class="dropdown-item text-primary" href="sector_distribution.html">Sector Distributions</a>
+                  <a class="dropdown-item text-primary" href="overall_sector_gains.html">20 Year Sector Gains</a>
+                  <a class="dropdown-item text-primary" href="top_performing_daily_sector_gains.html">Top Market Performing Daily Sector Gains</a>
+                  <a class="dropdown-item text-primary" href="bottom_performing_daily_sector_gains.html">Bottom Market Performing Daily Sector Gains</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="eoy_2018_top_&_bottom_stocks.html">EOY 2018 Top & Bottom Stocks - Crash</a>
+                  <a class="dropdown-item text-primary" href="post_2018_top_&_bottom_stocks.html">Post 2018 Top & Bottom Stocks - Rebound</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="eoy_2018_sector_gains.html">EOY 2018 Sector Gains - Crash</a>
+                  <a class="dropdown-item text-primary" href="post_2018_sector_gains.html">Post 2018 Sector Gains - Rebound</a>
+                </div>
+              </li>
+
+          </div>
+
+      </nav>
+
+      <!-- Creates the Overall Grid -->
+      <div class="container">
+
+        <!-- First Row -->
+        <div class="row" style="margin-top: 15px;">
+
+          <div class="col-md-12">
+
+            <!-- Main Jumbotron / Body Header -->
+            <div class="jumbotron">
+
+              <!-- Body Heading -->
+              
+              <h1 class="display-3 text-warning">Data</h1>
+              <h3>Show Me.</h4>
+              <hr class="my-4">
+
+              <h5 class="text-info"> </h5>
+              <br>
+              
+              <h3 class="text-danger">Unfortunately and fortunately,</h3>
+              <p>
+                the data set used to conduct this analysis consisted of over 2.2 million rows with close to 10 million cells;
+                thus, the dataset is not available on this page.
+                <br><br>
+                You can download the dataset yourself by visiting the Github Repository below as well as view a raw sample.
+                <br>
+                There is also a test dataset that is present alongside the main one if you would like to use it for development purposes.
+                <br><br>
+                Master Dataset (master_dataset_1577635349.csv) Size: 117 MB
+                <br>
+                Test Dataset (master_dataset_1577078237.csv) Size: 1.4 MB
+              </p>
+
+            </div>
+
+          </div>
+
+        </div>
+
+
+        <!-- Bottom Data Repo Buttons -->
+        <div class="row">
+
+          <div class="col-md-6">          
+            <p class="lead text-center">
+              <a class="btn btn-primary btn-lg" href="https://github.com/ARMcK-hub/Market_Analytica/tree/master/Resources/Master_Datasets" role="button">
+                Visit Github Repository</a>
+            </p>
+          </div>
+
+          <div class="col-md-6">          
+            <p class="lead text-center">
+              <a class="btn btn-primary btn-lg" href="https://raw.githubusercontent.com/ARMcK-hub/Market_Analytica/master/Resources/Master_Datasets/master_dataset_1577078237.csv" role="button">
+                View Raw Data Sample</a>
+            </p>
+          </div>
+
+        </div>
+
+        <!-- Exmaple Data Set -->
+        <div class="row">
+          <div class="col-md-12" style="margin-bottom: 20px; margin-top: 60px;">
+            <h3 class="text-danger text-center"><u>Example Dataset</u></h3>
+          </div>
+        </div>
+        
+        <div class="row">
+          <div class="col-md-12" style="margin-bottom: 60px;">
+            <div class="table-wrapper-scroll-y my-custom-scrollbar">
+            <table border="2" class="table table-bordered table-striped mb-0 text-warning">
+              <thead>
+                <tr style="text-align: right;">
+                  <th></th>
+                  <th>Date</th>
+                  <th>Open</th>
+                  <th>High</th>
+                  <th>Low</th>
+                  <th>Close</th>
+                  <th>Volume</th>
+                  <th>Ticker</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>0</th>
+                  <td>2019-12-20</td>
+                  <td>31.23</td>
+                  <td>31.3900</td>
+                  <td>31.0100</td>
+                  <td>31.39</td>
+                  <td>6458960</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>1</th>
+                  <td>2019-12-19</td>
+                  <td>30.80</td>
+                  <td>31.0685</td>
+                  <td>30.6400</td>
+                  <td>31.00</td>
+                  <td>4818115</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>2</th>
+                  <td>2019-12-18</td>
+                  <td>31.33</td>
+                  <td>31.3500</td>
+                  <td>30.7600</td>
+                  <td>30.77</td>
+                  <td>4315599</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>3</th>
+                  <td>2019-12-17</td>
+                  <td>31.75</td>
+                  <td>31.8050</td>
+                  <td>31.1950</td>
+                  <td>31.48</td>
+                  <td>2684345</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>4</th>
+                  <td>2019-12-16</td>
+                  <td>31.59</td>
+                  <td>31.9850</td>
+                  <td>31.5900</td>
+                  <td>31.80</td>
+                  <td>3954132</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>5</th>
+                  <td>2019-12-13</td>
+                  <td>31.53</td>
+                  <td>31.7900</td>
+                  <td>31.4001</td>
+                  <td>31.65</td>
+                  <td>2157888</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>6</th>
+                  <td>2019-12-12</td>
+                  <td>31.26</td>
+                  <td>31.7450</td>
+                  <td>31.1500</td>
+                  <td>31.62</td>
+                  <td>2924099</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>7</th>
+                  <td>2019-12-11</td>
+                  <td>31.19</td>
+                  <td>31.3100</td>
+                  <td>31.0600</td>
+                  <td>31.23</td>
+                  <td>1624865</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>8</th>
+                  <td>2019-12-10</td>
+                  <td>30.95</td>
+                  <td>31.1450</td>
+                  <td>30.9100</td>
+                  <td>31.01</td>
+                  <td>2595526</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>9</th>
+                  <td>2019-12-09</td>
+                  <td>30.81</td>
+                  <td>31.0500</td>
+                  <td>30.6700</td>
+                  <td>30.79</td>
+                  <td>1650865</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>10</th>
+                  <td>2019-12-06</td>
+                  <td>30.76</td>
+                  <td>31.0500</td>
+                  <td>30.6200</td>
+                  <td>31.02</td>
+                  <td>2245407</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>11</th>
+                  <td>2019-12-05</td>
+                  <td>30.49</td>
+                  <td>30.5450</td>
+                  <td>30.2700</td>
+                  <td>30.48</td>
+                  <td>1722147</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>12</th>
+                  <td>2019-12-04</td>
+                  <td>30.86</td>
+                  <td>30.9200</td>
+                  <td>30.3000</td>
+                  <td>30.32</td>
+                  <td>2593748</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>13</th>
+                  <td>2019-12-03</td>
+                  <td>30.26</td>
+                  <td>30.8100</td>
+                  <td>30.0100</td>
+                  <td>30.70</td>
+                  <td>3129757</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>14</th>
+                  <td>2019-12-02</td>
+                  <td>31.08</td>
+                  <td>31.1900</td>
+                  <td>30.5600</td>
+                  <td>30.56</td>
+                  <td>2159792</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>15</th>
+                  <td>2019-11-29</td>
+                  <td>31.20</td>
+                  <td>31.2300</td>
+                  <td>30.9300</td>
+                  <td>30.96</td>
+                  <td>2335092</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>16</th>
+                  <td>2019-11-27</td>
+                  <td>31.29</td>
+                  <td>31.4000</td>
+                  <td>31.0800</td>
+                  <td>31.26</td>
+                  <td>1787263</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>17</th>
+                  <td>2019-11-26</td>
+                  <td>30.98</td>
+                  <td>31.3000</td>
+                  <td>30.8200</td>
+                  <td>31.29</td>
+                  <td>3875171</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>18</th>
+                  <td>2019-11-25</td>
+                  <td>30.68</td>
+                  <td>30.9800</td>
+                  <td>30.6350</td>
+                  <td>30.96</td>
+                  <td>2275392</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>19</th>
+                  <td>2019-11-22</td>
+                  <td>30.68</td>
+                  <td>30.8166</td>
+                  <td>30.4500</td>
+                  <td>30.55</td>
+                  <td>2799039</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>20</th>
+                  <td>2019-11-21</td>
+                  <td>30.70</td>
+                  <td>31.1100</td>
+                  <td>30.5600</td>
+                  <td>30.61</td>
+                  <td>2200670</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>21</th>
+                  <td>2019-11-20</td>
+                  <td>30.88</td>
+                  <td>31.0300</td>
+                  <td>30.6300</td>
+                  <td>30.83</td>
+                  <td>3859202</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>22</th>
+                  <td>2019-11-19</td>
+                  <td>31.04</td>
+                  <td>31.0900</td>
+                  <td>30.9100</td>
+                  <td>31.01</td>
+                  <td>3608306</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>23</th>
+                  <td>2019-11-18</td>
+                  <td>30.78</td>
+                  <td>31.2250</td>
+                  <td>30.6400</td>
+                  <td>31.06</td>
+                  <td>4840554</td>
+                  <td>ARNC</td>
+                </tr>
+                <tr>
+                  <th>24</th>
+                  <td>2019-11-15</td>
+                  <td>30.39</td>
+                  <td>30.8950</td>
+                  <td>30.2000</td>
+                  <td>30.86</td>
+                  <td>5250001</td>
+                  <td>ARNC</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          </div>
+        </div>
+
+      </div>
+
+
+
+
+    </body>
+
+</html>

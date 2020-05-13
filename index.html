@@ -1,0 +1,410 @@
+<!-- Author: Andrew McKinney -->
+<!-- VU_DABC HTML & CSS -->
+<!-- Creation Date: 2020-02-01 -->
+
+
+<!DOCTYPE html>
+    <html lang="en">
+
+
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <!-- Bootstrap Dependencies -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        
+        <!-- CSS Override Doc with Bootswatch -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
+
+        <!-- favicon shit -->
+        <link rel="apple-touch-icon" sizes="144x144" href="images/favicon_package/apple-touch-icon">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_package/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon_package/favicon-16x16.png">
+        <link rel="manifest" href="images/favicon_package/site.webmanifest">
+        <link rel="mask-icon" href="images/favicon_package/safari-pinned-tab.svg" color="#5bbad5">
+
+
+        <title>Market Analytica</title>
+
+        <!-- Carousel CSS -->
+        <style>
+          .carousel-height{
+            max-height: 450px;
+            min-height: 450px;
+          }
+
+          .carousel-img{
+            max-height: inherit; 
+            max-width: fit-content; 
+            margin: 0 auto;
+          }
+
+
+        </style>
+
+
+    </head>
+
+
+
+
+    <body>
+
+      <!-- NavBar  -->
+      <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+
+        <!-- Brand Image -->
+        <img class="navbar-brand" src="images/code_circle.png" width="30" height="40" alt="HTML Code Image">
+
+          <!-- Navbar Toggle Button -->
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Navbar Items -->
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+            <ul class="navbar-nav">
+
+              <!-- Home -->
+              <li class="nav-item active">
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              </li>
+
+              <!-- Data -->
+              <li class="nav-item">
+                <a class="nav-link" href="data.html">Data</a>
+              </li>
+
+              <!-- Comparison Plot Page -->
+              <li class="nav-item">
+                <a class="nav-link" href="comparison.html">Comparison</a>
+              </li>
+
+              <!-- Plot Dropdown -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Plots
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item text-primary" href="daily_index_price.html">Daily Index Price</a>
+                  <a class="dropdown-item text-primary" href="daily_index_volume.html">Daily Index Volume</a>
+                  <a class="dropdown-item text-primary" href="daily_index_vol_var.html">Daily Index Volume Variance</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="present_sectors.html">Present Sectors</a>
+                  <a class="dropdown-item text-primary" href="sector_distribution.html">Sector Distributions</a>
+                  <a class="dropdown-item text-primary" href="overall_sector_gains.html">20 Year Sector Gains</a>
+                  <a class="dropdown-item text-primary" href="top_performing_daily_sector_gains.html">Top Market Performing Daily Sector Gains</a>
+                  <a class="dropdown-item text-primary" href="bottom_performing_daily_sector_gains.html">Bottom Market Performing Daily Sector Gains</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="eoy_2018_top_&_bottom_stocks.html">EOY 2018 Top & Bottom Stocks - Crash</a>
+                  <a class="dropdown-item text-primary" href="post_2018_top_&_bottom_stocks.html">Post 2018 Top & Bottom Stocks - Rebound</a>
+                  <hr style="width: 80%;">
+                  <a class="dropdown-item text-primary" href="eoy_2018_sector_gains.html">EOY 2018 Sector Gains - Crash</a>
+                  <a class="dropdown-item text-primary" href="post_2018_sector_gains.html">Post 2018 Sector Gains - Rebound</a>
+                </div>
+              </li>
+
+          </div>
+
+      </nav>
+
+
+      <!-- Creates the Overall Grid -->
+      <div class="container">
+
+        <!-- First Row -->
+        <div class="row" style="margin-top: 20px;">
+
+          <div class="col-md-12">
+
+            <!-- Main Jumbotron / Body Header -->
+            <div class="jumbotron">
+
+              <div class="text-center">
+                <img src="images/banner_photo_financialanalytica.jpg" style="width: 90%; border-radius: 10px;" class='center'>
+              </div>
+
+
+              <!-- Body Heading -->
+              
+              <h1 class="display-3 text-warning">Market Analytica</h1>
+              <h3>S&P 375 Investment for the Masses</h4>
+              <hr class="my-4">
+
+              <h5 class="text-info">Welcome to the Market Analyica Project. </h5>
+              <br>
+                <p>
+                If you have made it this far, then I assume you are interested in
+                figuring out how to play the game and make some money while you are at it.
+                <br>
+                For specifics on this project, feel free to navigate the following fields. 
+                <br>
+                There are also plenty of visualizations to check out at the bottom! 
+              </p>
+
+
+              
+              <!-- Collapsable Information -->
+
+              <!-- Collapsable Item 1 -->
+              <div class="accordion" id="accordionExample">
+                <div class="card">
+                  <div class="card-header" id="headingOne">
+                    <h2 class="mb-0">
+                      <button class="btn btn-link text-info" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <strong>What</strong> am I?
+                      </button>
+                    </h2>
+                  </div>
+
+                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <div class="card-body">
+                      This project houses data, scripts, and analytics for analyzing the Standard & Poor's Market Stock.
+                      <br>
+                    </div>
+                  </div>
+                </div>
+
+
+                <!-- Collapsable Item 2 -->
+                <div class="card">
+                  <div class="card-header" id="headingTwo">
+                    <h2 class="mb-0">
+                      <button class="btn btn-link collapsed text-info" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <strong>Why</strong> am I?
+                      </button>
+                    </h2>
+                  </div>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="card-body">
+                      First and foremost, this project was undertaken because of my curiosity and vested interest in understanding some of the outcomes of this project.
+
+                      This analysis looks at answering several different and interesting questions one might have about the S&P500 over the past 2 decades.
+                      <br>
+                      Here are some of the questions that you might have that these analytics could help in deriving for you:
+                      <ul>
+                        <li>
+                          What kind of Sectors (industries) are present in current the S&P500 and are there some that clearly stand out as winners?
+                        </li>
+                        <li>
+                          Are S&P500 stocks gaining value and are they returning increases in value that are beating the rest of the market?
+                        </li>
+                        <li>
+                          How popular are these large Market Cap stocks and are they gaining interest from investors?
+                        </li>
+                        <li>
+                          What are some of the best and worst performing stocks to invest in?
+                        </li>
+                        <li>
+                          What are some of the best and worst performing sectors to invest in?
+                        </li>
+                        <li>
+                          When there is economic downturn or rebound, what might be some good things to invest in?
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Collapsable Item 3 -->
+                <div class="card">
+                  <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                      <button class="btn btn-link collapsed text-info" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <strong>When</strong> am I?
+                      </button>
+                    </h2>
+                  </div>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                    <div class="card-body">
+                      The data collection and analysis for this project occured between December 2019 - January 2020.
+                    </div>
+                  </div>
+                </div>
+              
+
+                <!-- Collapsable Item 4 -->
+                <div class="card">
+                  <div class="card-header" id="headingFour">
+                    <h2 class="mb-0">
+                      <button class="btn btn-link collapsed text-info" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        <strong>How</strong> am I?
+                      </button>
+                    </h2>
+                  </div>
+                  <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                    <div class="card-body">
+                      <ol>
+                        <li>
+                          Data was crunched by first defining a scope of project. (What is the story we want to tell?)
+                        </li>
+                        <li>
+                          After finding an API the suited the needs of the project (Alpha Vantage), it was decided to pull the past 20 years of daily S&P500 stock data.
+                        </li>
+                          <ul>
+                            <li>
+                              Financial Data is pretty difficult to come by, and even harder when you want it for free.
+                            </li>
+                            <li>
+                              The Script to query the API was written in a Jupyter Notebook, Stock_Query.ipynb. 
+                              The notebook was written in Python using the Requests library and Pandas to pull and manage storage of data.
+                            </li>
+                            <li>
+                              Several API Query Scripts were written in order to produce more efficient data collection 
+                              (AV's Freemium limits call to 5/ machine time minute). 
+                              The efficiency of our data queries was improved by 40%! Up from ~4.8 to 6.75 calls per minute by using different call techniques!
+                            </li>
+                          </ul>
+                        <li>
+                          After data was collected and sequentually stored in a CSV file (~2.2M rows), data was called and munged via use of the Stock_Analytica.ipynb. 
+                          At this point, the data was cleaned by only considering stocks with the full 20 years of data, leaving 375 contenders (now the S&P375).
+                        </li>
+                        <li>
+                          Many aggregations were performed on this data, which can be viewed in the script. 
+                          The aggregates are also apparent in the plots that were created using Pandas and Matplotlib.
+                        </li>
+                        <li>
+                          Review and Celebration!
+                        </li>
+                      </ol>
+
+                      <br>
+                      tldr: Define Project Scope -> Alpha Vantage API Queries -> Jupyter Notebook .ipynb for data cleanup, aggregations, and visualizations
+                    </div>
+                  </div>
+                </div>
+
+                  <!-- Collapsable Item 5 -->
+                  <div class="card">
+                    <div class="card-header" id="headingFive">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed text-info" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                          <strong>Who</strong> am I?
+                        </button>
+                      </h2>
+                    </div>
+                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                      <div class="card-body">
+                        Good question. This project was initally undertaken by myself and a group of 3 associates to analyze an aggregate of the Fortune 500 List. 
+                        During this project, I was responsible for delivering all of the stock data via use of an API request script. 
+                        This initial project yielded a mix of unsatistying results (mainly driven by skewed data - Fixed by including more!), 
+                        and I was interested in the followup analysis. I created the analysis portion of this, S&P500, project.
+                        <br>
+                        tldr: The project started out as a seperate group project looking at the Fortune 500. I was interested in more so I continued on, and I created all of the content associated with this specific repository.                  </div>
+                    </div>
+                  </div>
+
+
+              </div>
+
+            </div>
+
+            <!-- See All / Comparison Button -->
+            <p class="lead text-center">
+              <a class="btn btn-primary btn-lg" href="comparison.html" role="button">Compare All Plots</a>
+            </p>
+            <p Class="text-warning text-center">
+              Or scroll through each one here. 
+              <br>
+              (Click on a chart to view it in depth)
+            </p>
+
+          </div>
+
+          <!-- Row for Carosel -->
+          <div class="col-md-12" style="margin-bottom: 100px;">
+
+            <!-- Plot Carosel -->
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+
+                <div class="carousel-item active carousel-height">
+                  <a href="daily_index_price.html">
+                    <img src="images/Market_Analytica/s&p375_index_price_plot.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="daily_index_volume.html">
+                    <img src="images/Market_Analytica/s&p375_index_volume_plot.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="daily_index_vol_var.html">
+                    <img src="images/Market_Analytica/s&p375_index_volvar_plot.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="overall_sector_gains.html">
+                    <img src="images/Market_Analytica/s&p375_sector_gain_20yr_barplot.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="bottom_performing_daily_sector_gains.html">
+                    <img src="images/Market_Analytica/s&p375_sector_gain_bottomdays_bar.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="eoy_2018_sector_gains.html">
+                    <img src="images/Market_Analytica/s&p375_sector_gain_eoy2018_bar.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="post_2018_sector_gains.html">
+                    <img src="images/Market_Analytica/s&p375_sector_gain_post_2018_bar.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="top_performing_daily_sector_gains.html">
+                    <img src="images/Market_Analytica/s&p375_sector_gain_topdays_bar.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="present_sectors.html">
+                    <img src="images/Market_Analytica/s&p375_sector_pieplot.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="eoy_2018_top_&_bottom_stocks.html">
+                    <img src="images/Market_Analytica/s&p375_top&bot_stocks_eoy2018_bar.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="post_2018_top_&_bottom_stocks.html">
+                    <img src="images/Market_Analytica/s&p375_top&bot_stocks_post2018_bar.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+                <div class="carousel-item carousel-height">
+                  <a href="sector_distribution.html">
+                    <img src="images/Market_Analytica/s&p375_sector_distribution_hist.png" class="d-block w-100 carousel-img" alt="...">
+                  </a>
+                </div>
+
+              </div>
+
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </body>
+
+</html>
